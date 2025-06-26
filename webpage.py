@@ -1,3 +1,9 @@
+# Very simple system for generating a .HTML index page with the files.
+# Actually i would hightly recommend you minify the generated HTML file
+# Since its hell big ngl
+
+# Also, can someone please remember me of cleaning this a lil' bit? Like a TODO.
+
 import os
 from pathlib import Path
 
