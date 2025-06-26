@@ -1,0 +1,170 @@
+{\rtf1\ansi\ansicpg1252\uc1\deff1\stshfdbch0\stshfloch0\stshfhich0\stshfbi0\deflang1046\deflangfe1046{\fonttbl{\f0\froman\fcharset0\fprq2{\*\panose 02020603050405020304}Times New Roman;}{\f1\fswiss\fcharset0\fprq2{\*\panose 020b0604020202020204}Arial;}
+{\f37\fscript\fcharset0\fprq2{\*\panose 030f0702030302020204}Comic Sans MS;}{\f59\froman\fcharset238\fprq2 Times New Roman CE;}{\f60\froman\fcharset204\fprq2 Times New Roman Cyr;}{\f62\froman\fcharset161\fprq2 Times New Roman Greek;}
+{\f63\froman\fcharset162\fprq2 Times New Roman Tur;}{\f64\froman\fcharset177\fprq2 Times New Roman (Hebrew);}{\f65\froman\fcharset178\fprq2 Times New Roman (Arabic);}{\f66\froman\fcharset186\fprq2 Times New Roman Baltic;}
+{\f67\froman\fcharset163\fprq2 Times New Roman (Vietnamese);}{\f69\fswiss\fcharset238\fprq2 Arial CE;}{\f70\fswiss\fcharset204\fprq2 Arial Cyr;}{\f72\fswiss\fcharset161\fprq2 Arial Greek;}{\f73\fswiss\fcharset162\fprq2 Arial Tur;}
+{\f74\fswiss\fcharset177\fprq2 Arial (Hebrew);}{\f75\fswiss\fcharset178\fprq2 Arial (Arabic);}{\f76\fswiss\fcharset186\fprq2 Arial Baltic;}{\f77\fswiss\fcharset163\fprq2 Arial (Vietnamese);}{\f429\fscript\fcharset238\fprq2 Comic Sans MS CE;}
+{\f430\fscript\fcharset204\fprq2 Comic Sans MS Cyr;}{\f432\fscript\fcharset161\fprq2 Comic Sans MS Greek;}{\f433\fscript\fcharset162\fprq2 Comic Sans MS Tur;}{\f436\fscript\fcharset186\fprq2 Comic Sans MS Baltic;}}{\colortbl;\red0\green0\blue0;
+\red0\green0\blue255;\red0\green255\blue255;\red0\green255\blue0;\red255\green0\blue255;\red255\green0\blue0;\red255\green255\blue0;\red255\green255\blue255;\red0\green0\blue128;\red0\green128\blue128;\red0\green128\blue0;\red128\green0\blue128;
+\red128\green0\blue0;\red128\green128\blue0;\red128\green128\blue128;\red192\green192\blue192;}{\stylesheet{\ql \li0\ri0\widctlpar\faauto\adjustright\rin0\lin0\itap0 \f1\fs24\lang1046\langfe1046\cgrid\langnp1046\langfenp1046 \snext0 Normal;}{
+\s1\qj \li0\ri0\keepn\widctlpar\faauto\outlinelevel0\adjustright\rin0\lin0\itap0 \b\fs28\lang1046\langfe1046\cgrid\langnp1046\langfenp1046 \sbasedon0 \snext0 heading 1;}{\s2\ql \li0\ri0\sl360\slmult1
+\keepn\widctlpar\faauto\outlinelevel1\adjustright\rin0\lin0\itap0 \b\fs28\lang1046\langfe1046\cgrid\langnp1046\langfenp1046 \sbasedon0 \snext0 heading 2;}{\*\cs10 \additive \ssemihidden Default Paragraph Font;}{\*
+\ts11\tsrowd\trftsWidthB3\trpaddl108\trpaddr108\trpaddfl3\trpaddft3\trpaddfb3\trpaddfr3\trcbpat1\trcfpat1\tscellwidthfts0\tsvertalt\tsbrdrt\tsbrdrl\tsbrdrb\tsbrdrr\tsbrdrdgl\tsbrdrdgr\tsbrdrh\tsbrdrv 
+\ql \li0\ri0\widctlpar\aspalpha\aspnum\faauto\adjustright\rin0\lin0\itap0 \fs20\lang1024\langfe1024\cgrid\langnp1024\langfenp1024 \snext11 \ssemihidden Normal Table;}{\s15\ql \li0\ri0\sb100\sa100\widctlpar\faauto\adjustright\rin0\lin0\itap0 
+\fs24\lang1046\langfe1046\cgrid\langnp1046\langfenp1046 \sbasedon0 \snext15 Normal (Web);}{\s16\ql \li0\ri0\sb100\sa100\widctlpar\faauto\adjustright\rin0\lin0\itap0 \fs24\lang1046\langfe1046\cgrid\langnp1046\langfenp1046 \sbasedon0 \snext16 subtitulo;}{
+\s17\ql \li0\ri0\widctlpar\tqc\tx4419\tqr\tx8838\faauto\adjustright\rin0\lin0\itap0 \f1\fs24\lang1046\langfe1046\cgrid\langnp1046\langfenp1046 \sbasedon0 \snext17 header;}{\s18\ql \li0\ri0\widctlpar
+\tqc\tx4419\tqr\tx8838\faauto\adjustright\rin0\lin0\itap0 \f1\fs24\lang1046\langfe1046\cgrid\langnp1046\langfenp1046 \sbasedon0 \snext18 footer;}{\s19\qj \fi2880\li0\ri-1\sl360\slmult1\widctlpar\faauto\adjustright\rin-1\lin0\itap0 
+\fs28\lang1046\langfe1046\cgrid\langnp1046\langfenp1046 \sbasedon0 \snext19 Body Text 2;}{\s20\ql \li0\ri0\widctlpar\faauto\adjustright\rin0\lin0\itap0 \f37\fs24\lang1046\langfe1046\cgrid\langnp1046\langfenp1046 \sbasedon0 \snext20 Body Text;}{
+\s21\qj \li3969\ri567\sl360\slmult1\widctlpar\faauto\adjustright\rin567\lin3969\itap0 \fs28\lang1046\langfe1046\cgrid\langnp1046\langfenp1046 \sbasedon0 \snext21 Block Text;}{\s22\qj \fi2694\li0\ri-1\sl360\slmult1
+\widctlpar\faauto\adjustright\rin-1\lin0\itap0 \fs28\lang1046\langfe1046\cgrid\langnp1046\langfenp1046 \sbasedon0 \snext22 Body Text Indent 2;}{\*\cs23 \additive \sbasedon10 page number;}{\*\cs24 \additive \ul\cf2 \sbasedon10 \styrsid16282111 Hyperlink;}}
+{\*\rsidtbl \rsid16282111}{\*\generator Microsoft Word 10.0.2627;}{\info{\title EXMO}{\author .}{\operator Guilherme}{\creatim\yr2002\mo7\dy15\hr10\min36}{\revtim\yr2005\mo9\dy15\hr22\min5}{\printim\yr2002\mo10\dy3\hr13\min30}{\version10}{\edmins78}
+{\nofpages7}{\nofwords1103}{\nofchars5957}{\*\company .}{\nofcharsws7046}{\vern16437}}\paperw12242\paperh15842\margl2268\margr1134\margt2268\margb851 
+\widowctrl\ftnbj\aenddoc\hyphhotz425\noxlattoyen\expshrtn\noultrlspc\dntblnsbdb\nospaceforul\lytprtmet\hyphcaps0\formshade\horzdoc\dghspace120\dgvspace120\dghorigin1701\dgvorigin1984\dghshow0\dgvshow3
+\jcompress\viewkind4\viewscale75\pgbrdrhead\pgbrdrfoot\nolnhtadjtbl\rsidroot16282111 \fet0\sectd \binfsxn8\binsxn8\psz1\sbknone\linex0\headery737\footery709\colsx709\endnhere\sectdefaultcl\sftnbj {\footer \pard\plain \s18\ql \li0\ri0\widctlpar
+\tqc\tx4419\tqr\tx8838\pvpara\phmrg\posxr\posy0\faauto\adjustright\rin0\lin0\itap0 \f1\fs24\lang1046\langfe1046\cgrid\langnp1046\langfenp1046 {\field{\*\fldinst {\cs23\insrsid16282111 PAGE  }}{\fldrslt {\cs23\lang1024\langfe1024\noproof\insrsid16282111 7}
+}}{\cs23\insrsid16282111 
+\par }\pard \s18\ql \li0\ri360\widctlpar\tqc\tx4419\tqr\tx8838\faauto\adjustright\rin360\lin0\itap0 {\insrsid16282111 
+\par }}{\*\pnseclvl1\pnucrm\pnstart1\pnindent720\pnhang {\pntxta .}}{\*\pnseclvl2\pnucltr\pnstart1\pnindent720\pnhang {\pntxta .}}{\*\pnseclvl3\pndec\pnstart1\pnindent720\pnhang {\pntxta .}}{\*\pnseclvl4\pnlcltr\pnstart1\pnindent720\pnhang {\pntxta )}}
+{\*\pnseclvl5\pndec\pnstart1\pnindent720\pnhang {\pntxtb (}{\pntxta )}}{\*\pnseclvl6\pnlcltr\pnstart1\pnindent720\pnhang {\pntxtb (}{\pntxta )}}{\*\pnseclvl7\pnlcrm\pnstart1\pnindent720\pnhang {\pntxtb (}{\pntxta )}}{\*\pnseclvl8
+\pnlcltr\pnstart1\pnindent720\pnhang {\pntxtb (}{\pntxta )}}{\*\pnseclvl9\pnlcrm\pnstart1\pnindent720\pnhang {\pntxtb (}{\pntxta )}}\pard\plain \qj \li0\ri0\widctlpar\faauto\adjustright\rin0\lin0\itap0 
+\f1\fs24\lang1046\langfe1046\cgrid\langnp1046\langfenp1046 {\b\f0\fs28\insrsid16282111 EXMO. DR. JUIZ DE DIREITO DA VARA DE EXECU\'c7\'d5ES PENAIS
+\par }{\f0\fs28\insrsid16282111 
+\par }{\b\f0\fs28\insrsid16282111 Protocolo VEP: 2001/0121320-5
+\par RG: 
+\par }\pard\plain \s1\qj \li0\ri0\keepn\widctlpar\faauto\outlinelevel0\adjustright\rin0\lin0\itap0 \b\fs28\lang1046\langfe1046\cgrid\langnp1046\langfenp1046 {\insrsid16282111 CES: 99/06326-5
+\par }\pard\plain \qj \li0\ri0\widctlpar\faauto\adjustright\rin0\lin0\itap0 \f1\fs24\lang1046\langfe1046\cgrid\langnp1046\langfenp1046 {\f0\fs28\insrsid16282111 
+\par 
+\par 
+\par 
+\par 
+\par 
+\par 
+\par }\pard \qj \fi720\li0\ri0\widctlpar\faauto\adjustright\rin0\lin0\itap0 {\f0\fs28\insrsid16282111 \tab \tab \tab }{\b\f0\fs28\insrsid16282111 ,}{\f0\fs28\insrsid16282111  j\'e1 qualificado nos autos da execu\'e7\'e3o em ep\'edgrafe, vem, pela Defensoria P
+\'fablica,  apresentar suas
+\par }\pard \qj \li0\ri0\widctlpar\faauto\adjustright\rin0\lin0\itap0 {\f0\fs28\insrsid16282111 
+\par 
+\par 
+\par }\pard \qc \li0\ri0\widctlpar\faauto\adjustright\rin0\lin0\itap0 {\b\f0\fs28\insrsid16282111 CONTRA RAZ\'d5ES AO 
+\par RECURSO DE AGRAVO \'c0 EXECU\'c7\'c3O
+\par }\pard \qj \li0\ri0\widctlpar\faauto\adjustright\rin0\lin0\itap0 {\f0\fs28\insrsid16282111 
+\par 
+\par 
+\par pelos fatos e fundamentos de direito expostos nas raz\'f5es, em anexo, requerendo a V. Exa, que, ap\'f3s as formalidades de estilo, se digne determinar a remessa dos autos ao Egr\'e9gio Tribunal para julgamento.
+\par 
+\par 
+\par }\pard \qc \li0\ri0\widctlpar\faauto\adjustright\rin0\lin0\itap0 {\f0\fs28\insrsid16282111 Nestes Termos,
+\par P. Deferimento.
+\par }\pard \qj \li0\ri0\widctlpar\faauto\adjustright\rin0\lin0\itap0 {\f0\fs28\insrsid16282111 
+\par }\pard \qc \li0\ri0\widctlpar\faauto\adjustright\rin0\lin0\itap0 {\f0\fs28\insrsid16282111 Rio de Janeiro, 03 de outubro de 2002.
+\par }\pard \qj \li0\ri0\widctlpar\faauto\adjustright\rin0\lin0\itap0 {\f0\fs28\insrsid16282111 
+\par 
+\par 
+\par 
+\par }\pard \ql \li0\ri0\sl360\slmult1\widctlpar\faauto\adjustright\rin0\lin0\itap0 {\f0\fs28\insrsid16282111 Agravante: Minist\'e9rio P\'fablico
+\par }\pard\plain \s2\ql \li0\ri0\sl360\slmult1\keepn\widctlpar\faauto\outlinelevel1\adjustright\rin0\lin0\itap0 \b\fs28\lang1046\langfe1046\cgrid\langnp1046\langfenp1046 {\insrsid16282111 Agravado: 
+\par }\pard\plain \qj \li0\ri0\sl360\slmult1\widctlpar\faauto\adjustright\rin0\lin0\itap0 \f1\fs24\lang1046\langfe1046\cgrid\langnp1046\langfenp1046 {\f0\fs28\insrsid16282111 
+\par }\pard \qc \li0\ri0\sl360\slmult1\widctlpar\faauto\adjustright\rin0\lin0\itap0 {\b\f0\fs28\insrsid16282111 
+\par CONTRA RAZ\'d5ES DE AGRAVANTE
+\par }\pard \ql \li0\ri0\sl360\slmult1\widctlpar\faauto\adjustright\rin0\lin0\itap0 {\f0\fs28\insrsid16282111 
+\par }{\b\f0\fs28\insrsid16282111 EGR\'c9GIO TRIBUNAL 
+\par }\pard \qj \li0\ri0\sl360\slmult1\widctlpar\faauto\adjustright\rin0\lin0\itap0 {\f0\fs28\insrsid16282111 
+\par \tab \tab \tab \tab N\'e3o merece qualquer reforma a brilhante senten\'e7a do ju\'edzo Monocr\'e1tico, visto estar em conson\'e2ncia com a doutrina e jurisprud\'eancia mais moderna, observando assim, a melhor forma de interpreta\'e7\'e3o das normas 
+de Direito Penal p\'e1trio.
+\par 
+\par \tab \tab \tab \tab O apenado \'e9 prim\'e1rio e foi condenado em um \'fanico processo, por delito abrangido pela Lei n\'ba 8.072/90 (art. 12 da Lei n\'ba 6368/76), e por delito n\'e3o abrangido pela Lei n\'ba 8.072/90 (art. 14, da Lei n\'ba 6368/76).
+
+\par 
+\par \tab \tab \tab \tab Assim, faz jus ao benef\'edcio do livramento condicional ao cumprir 2/3 da reprimenda do delito equiparado a hediondo e mais de 1/3 da pena do delito n\'e3o hediondo.
+\par 
+\par \tab \tab \tab \tab O apenado no curso da execu\'e7\'e3o de sua pena requereu ao MM. Juiz monocr\'e1tico que fosse elaborado c\'e1lculo de pena discriminado para verificar a lapso temporal necess\'e1rio para concess\'e3o do livramento condicional.  
+
+\par }\pard \qj \fi2160\li0\ri0\sl360\slmult1\widctlpar\faauto\adjustright\rin0\lin0\itap0 {\f0\fs28\insrsid16282111  \tab O julgador de 1\'aa grau, por entender n\'e3o ser o delito tipificado no art. 1
+4 da Lei 6.368/76, hediondo, determinou que fosse elaborado o c\'e1lculo de pena como requerido pelo acusado.
+\par }\pard \qj \li0\ri0\sl360\slmult1\widctlpar\faauto\adjustright\rin0\lin0\itap0 {\f0\fs28\insrsid16282111 
+\par \tab \tab \tab \tab Decidiu o ins\'edgne Magistrado, portanto, de acordo com grandes Mestres penalistas, bem como de nossos Tribunais.
+\par 
+\par \tab \tab \tab \tab Neste sentido ensina o Mestre Alberto Silva Franco, }{\i\f0\fs28\insrsid16282111 in }{\f0\fs28\insrsid16282111 Leis Penais Especiais e sua interpreta\'e7\'e3o jurisprudencial:
+\par 
+\par }\pard \qj \li4320\ri0\sl360\slmult1\widctlpar\faauto\adjustright\rin0\lin4320\itap0 {\b\i\f0\fs28\insrsid16282111 \'93 N\'e3o h\'e1, na legisla\'e7\'e3o penal brasileira, nenhuma figura criminosa que atenda pelo }{\b\i\f0\fs28\ul\insrsid16282111 
+nomen iuris}{\b\i\f0\fs28\insrsid16282111  de tr\'e1fico il\'edcito de entorpecentes e de drogas afins. No entanto, \'e9 inquestion\'e1vel que a Lei n\'ba 6368/76, nos arts. 12 e 13, cont\'e9m expl\'edcitas hip\'f3teses desse tr\'e1
+fico, o que autoriza a incid\'eancia dos dispositivos da Lei n\'ba 8072/90. Note-se que nem todos os comportamentos descritos nos arts. 12 e 13 da lei penal especial comportam enquadramento no conceito representado pelo substantivo \'93tr\'e1fico\'94
+ qualificado pelo adjetivo \'93il\'edcito\'94...\'94}{\b\f0\fs28\insrsid16282111  (ob. Citada, p\'e1g. 592).
+\par }\pard\plain \s19\qj \fi2880\li0\ri-1\sl360\slmult1\widctlpar\faauto\adjustright\rin-1\lin0\itap0 \fs28\lang1046\langfe1046\cgrid\langnp1046\langfenp1046 {\insrsid16282111 Em recent\'edssima decis\'e3o un\'e2nime da 6\'aa Turma, o STJ professou:
+\par }\pard\plain \qj \fi1134\li284\ri-1\sl360\slmult1\widctlpar\faauto\adjustright\rin-1\lin284\itap0 \f1\fs24\lang1046\langfe1046\cgrid\langnp1046\langfenp1046 {\f0\fs28\insrsid16282111 
+\par }\pard\plain \s20\qj \li4395\ri-1\sl360\slmult1\widctlpar\faauto\adjustright\rin-1\lin4395\itap0 \f37\fs24\lang1046\langfe1046\cgrid\langnp1046\langfenp1046 {\b\i\f0\fs28\insrsid16282111 \'93O delito de associa\'e7\'e3
+o previsto no art. 14 da Lei 6368/76 n\'e3o \'e9 considerado hediondo, podendo, portanto, quanto a ele haver progress\'e3o de regime. Habeas Corpus concedido em parte. (STJ \endash  6\'aa Turma \endash  HC  17844/RJ \endash  Min. Rel. Fernando Gon\'e7
+alves \endash  Julg. 15/10/01).
+\par }\pard\plain \qj \fi1134\li284\ri-1\sl360\slmult1\widctlpar\faauto\adjustright\rin-1\lin284\itap0 \f1\fs24\lang1046\langfe1046\cgrid\langnp1046\langfenp1046 {\b\i\f0\fs28\insrsid16282111 
+\par }\pard\plain \s22\qj \fi2694\li0\ri-1\sl360\slmult1\widctlpar\faauto\adjustright\rin-1\lin0\itap0 \fs28\lang1046\langfe1046\cgrid\langnp1046\langfenp1046 {\insrsid16282111 No mesmo campo doutrin\'e1rio destacou com soberba sabedoria a 5\'aa
+ Turma do mesmo Tribunal:
+\par }\pard\plain \qj \fi1134\li284\ri-1\sl360\slmult1\widctlpar\faauto\adjustright\rin-1\lin284\itap0 \f1\fs24\lang1046\langfe1046\cgrid\langnp1046\langfenp1046 {\f0\fs28\insrsid16282111 
+\par }\pard\plain \s21\qj \li3969\ri-1\sl360\slmult1\widctlpar\faauto\adjustright\rin-1\lin3969\itap0 \fs28\lang1046\langfe1046\cgrid\langnp1046\langfenp1046 {\b\i\insrsid16282111 \'93A regra proibitiva da progress\'e3o de regime prisional, prevista no \'a71
+\'ba do art. 2\'ba da Lei 8072/90, refere-se, t\'e3o somente ao tr\'e1fico de entorpecentes (art. 12 da Lei 6368/76), n\'e3o alcan\'e7ando, portanto, o delito de associa\'e7\'e3o, tipificado no art. 14 da lei de T\'f3
+xicos. Precedentes dessa corte e do Colendo STF (STJ \endash  5\'aa Turma \endash  HC  14017/RJ \endash  Min. Rel. Jose Arnaldo da Fonseca \endash  Julg. 11/06/01).
+\par }\pard\plain \qj \li0\ri0\sl360\slmult1\widctlpar\faauto\adjustright\rin0\lin0\itap0 \f1\fs24\lang1046\langfe1046\cgrid\langnp1046\langfenp1046 {\f0\fs28\insrsid16282111 
+\par \tab \tab \tab \tab Posi\'e7\'e3o esta inclusive que \'e9 compartilhada pelo Pret\'f3rio Excelsio, \'f3rg\'e3o m\'e1ximo do Poder Judici\'e1rio, n\'e3o deixando assim a menor d\'favida sobre a natureza }{\b\f0\fs28\insrsid16282111 n\'e3
+o hedionda do crime de associa\'e7\'e3o ao tr\'e1fico de entorpecente}{\f0\fs28\insrsid16282111 .  Eis:
+\par }{\i\f0\fs28\insrsid16282111 
+\par }\pard\plain \s15\qj \li3600\ri0\sb100\sa100\sl360\slmult1\widctlpar\faauto\adjustright\rin0\lin3600\itap0 \fs24\lang1046\langfe1046\cgrid\langnp1046\langfenp1046 {\b\i\fs28\insrsid16282111 " HABEAS CORPUS- HC-75978 / SP}{\i\fs28\insrsid16282111 
+\par }\pard\plain \qj \li3600\ri0\sl360\slmult1\widctlpar\faauto\adjustright\rin0\lin3600\itap0 \f1\fs24\lang1046\langfe1046\cgrid\langnp1046\langfenp1046 {\b\i\f0\fs28\insrsid16282111 Relator(a):\~Min. SEPULVEDA PERTENCE }{\i\f0\fs28\insrsid16282111 
+\par }{\b\i\f0\fs28\insrsid16282111 Publica\'e7\'e3o:\~}{\i\f0\fs28\insrsid16282111  DJ DATA-19-06-98 PP-00002 EMENT VOL-01915-01 PP-00034 
+\par }{\b\i\f0\fs28\insrsid16282111 Julgamento:\~}{\i\f0\fs28\insrsid16282111  12/05/1998 - Primeira Turma 
+\par }\pard \qj \li0\ri0\sl360\slmult1\widctlpar\faauto\adjustright\rin0\lin0\itap0 {\i\f0\fs28\insrsid16282111 
+\par }\pard \qj \li3600\ri0\sl360\slmult1\widctlpar\faauto\adjustright\rin0\lin3600\itap0 {\b\i\f0\fs28\insrsid16282111 EMENTA: Crimes }{\field{\*\fldinst {\b\i\f0\fs28\insrsid16282111 
+ HYPERLINK "http://gemini.stf.gov.br/cgi-bin/nph-brs?d=SJUR&s1=associa%E7%E3o+e+trafico+e+hediondo&u=http://www.stf.gov.br/Jurisprudencia/" \\l "h0" }{\b\i\f0\fs28\insrsid16282111\charrsid16282111 {\*\datafield 
+08d0c9ea79f9bace118c8200aa004ba90b020000000b000000e0c9ea79f9bace118c8200aa004ba90bfe00000068007400740070003a002f002f00670065006d0069006e0069002e007300740066002e0067006f0076002e00620072002f006300670069002d00620069006e002f006e00700068002d006200720073003f00
+64003d0053004a00550052002600730031003d006100730073006f006300690061002500450037002500450033006f002b0065002b007400720061006600690063006f002b0065002b0068006500640069006f006e0064006f00260075003d0068007400740070003a002f002f007700770077002e007300740066002e0067
+006f0076002e00620072002f004a007500720069007300700072007500640065006e006300690061002f00000003000000680030000000}}}{\fldrslt {\cs24\ul\cf2\insrsid16282111\charrsid16282111 
+http://gemini.stf.gov.br/cgi-bin/nph-brs?d=SJUR&s1=associa%E7%E3o+e+trafico+e+hediondo&u=http://www.stf.gov.br/Jurisprudencia/ - h0}}}{\field{\*\fldinst {\b\i\f0\fs28\insrsid16282111 
+ HYPERLINK "http://gemini.stf.gov.br/cgi-bin/nph-brs?d=SJUR&s1=associa%E7%E3o+e+trafico+e+hediondo&u=http://www.stf.gov.br/Jurisprudencia/" \\l "h2" }{\b\i\f0\fs28\insrsid16282111\charrsid16282111 {\*\datafield 
+08d0c9ea79f9bace118c8200aa004ba90b020000000b000000e0c9ea79f9bace118c8200aa004ba90bfe00000068007400740070003a002f002f00670065006d0069006e0069002e007300740066002e0067006f0076002e00620072002f006300670069002d00620069006e002f006e00700068002d006200720073003f00
+64003d0053004a00550052002600730031003d006100730073006f006300690061002500450037002500450033006f002b0065002b007400720061006600690063006f002b0065002b0068006500640069006f006e0064006f00260075003d0068007400740070003a002f002f007700770077002e007300740066002e0067
+006f0076002e00620072002f004a007500720069007300700072007500640065006e006300690061002f00000003000000680032000000}}}{\fldrslt {\cs24\ul\cf2\insrsid16282111\charrsid16282111 
+http://gemini.stf.gov.br/cgi-bin/nph-brs?d=SJUR&s1=associa%E7%E3o+e+trafico+e+hediondo&u=http://www.stf.gov.br/Jurisprudencia/ - h2}}}{\b\i\f0\fs28\insrsid16282111 hediondos (L. 8.072/90): regime fechado integral (art. 2\'ba, \'a7 1\'ba
+), de constitucionalidade declarada pelo Plen\'e1rio (ressalva pessoal do relator): inaplicabilidade, por\'e9m, da regra proibitiva da progress\'e3o ao condenado pelo delito }{\b\i\f0\fs28\ulw\insrsid16282111 de }{\field{\*\fldinst {
+\b\i\f0\fs28\ulw\insrsid16282111  HYPERLINK "http://gemini.stf.gov.br/cgi-bin/nph-brs?d=SJUR&s1=associa%E7%E3o+e+trafico+e+hediondo&u=http://www.stf.gov.br/Jurisprudencia/" \\l "h1" }{\b\i\f0\fs28\ulw\insrsid16282111\charrsid16282111 {\*\datafield 
+08d0c9ea79f9bace118c8200aa004ba90b020000000b000000e0c9ea79f9bace118c8200aa004ba90bfe00000068007400740070003a002f002f00670065006d0069006e0069002e007300740066002e0067006f0076002e00620072002f006300670069002d00620069006e002f006e00700068002d006200720073003f00
+64003d0053004a00550052002600730031003d006100730073006f006300690061002500450037002500450033006f002b0065002b007400720061006600690063006f002b0065002b0068006500640069006f006e0064006f00260075003d0068007400740070003a002f002f007700770077002e007300740066002e0067
+006f0076002e00620072002f004a007500720069007300700072007500640065006e006300690061002f00000003000000680031000000}}}{\fldrslt {\cs24\ul\cf2\insrsid16282111\charrsid16282111 
+http://gemini.stf.gov.br/cgi-bin/nph-brs?d=SJUR&s1=associa%E7%E3o+e+trafico+e+hediondo&u=http://www.stf.gov.br/Jurisprudencia/ - h1}}}{\field{\*\fldinst {\b\i\f0\fs28\ulw\insrsid16282111 
+ HYPERLINK "http://gemini.stf.gov.br/cgi-bin/nph-brs?d=SJUR&s1=associa%E7%E3o+e+trafico+e+hediondo&u=http://www.stf.gov.br/Jurisprudencia/" \\l "h3" }{\b\i\f0\fs28\ulw\insrsid16282111\charrsid16282111 {\*\datafield 
+08d0c9ea79f9bace118c8200aa004ba90b020000000b000000e0c9ea79f9bace118c8200aa004ba90bfe00000068007400740070003a002f002f00670065006d0069006e0069002e007300740066002e0067006f0076002e00620072002f006300670069002d00620069006e002f006e00700068002d006200720073003f00
+64003d0053004a00550052002600730031003d006100730073006f006300690061002500450037002500450033006f002b0065002b007400720061006600690063006f002b0065002b0068006500640069006f006e0064006f00260075003d0068007400740070003a002f002f007700770077002e007300740066002e0067
+006f0076002e00620072002f004a007500720069007300700072007500640065006e006300690061002f00000003000000680033000000}}}{\fldrslt {\cs24\ul\cf2\insrsid16282111\charrsid16282111 
+http://gemini.stf.gov.br/cgi-bin/nph-brs?d=SJUR&s1=associa%E7%E3o+e+trafico+e+hediondo&u=http://www.stf.gov.br/Jurisprudencia/ - h3}}}{\b\i\f0\fs28\ulw\insrsid16282111 associa\'e7\'e3o incriminado no art. 14 da Lei de Entorpecentes, inconfund\'edvel com o
+ de }{\field{\*\fldinst {\b\i\f0\fs28\ulw\insrsid16282111  HYPERLINK "http://gemini.stf.gov.br/cgi-bin/nph-brs?d=SJUR&s1=associa%E7%E3o+e+trafico+e+hediondo&u=http://www.stf.gov.br/Jurisprudencia/" \\l "h2" }{
+\b\i\f0\fs28\ulw\insrsid16282111\charrsid16282111 {\*\datafield 
+08d0c9ea79f9bace118c8200aa004ba90b020000000b000000e0c9ea79f9bace118c8200aa004ba90bfe00000068007400740070003a002f002f00670065006d0069006e0069002e007300740066002e0067006f0076002e00620072002f006300670069002d00620069006e002f006e00700068002d006200720073003f00
+64003d0053004a00550052002600730031003d006100730073006f006300690061002500450037002500450033006f002b0065002b007400720061006600690063006f002b0065002b0068006500640069006f006e0064006f00260075003d0068007400740070003a002f002f007700770077002e007300740066002e0067
+006f0076002e00620072002f004a007500720069007300700072007500640065006e006300690061002f00000003000000680032000000}}}{\fldrslt {\cs24\ul\cf2\insrsid16282111\charrsid16282111 
+http://gemini.stf.gov.br/cgi-bin/nph-brs?d=SJUR&s1=associa%E7%E3o+e+trafico+e+hediondo&u=http://www.stf.gov.br/Jurisprudencia/ - h2}}}{\field{\*\fldinst {\b\i\f0\fs28\ulw\insrsid16282111 
+ HYPERLINK "http://gemini.stf.gov.br/cgi-bin/nph-brs?d=SJUR&s1=associa%E7%E3o+e+trafico+e+hediondo&u=http://www.stf.gov.br/Jurisprudencia/" \\l "h4" }{\b\i\f0\fs28\ulw\insrsid16282111\charrsid16282111 {\*\datafield 
+08d0c9ea79f9bace118c8200aa004ba90b020000000b000000e0c9ea79f9bace118c8200aa004ba90bfe00000068007400740070003a002f002f00670065006d0069006e0069002e007300740066002e0067006f0076002e00620072002f006300670069002d00620069006e002f006e00700068002d006200720073003f00
+64003d0053004a00550052002600730031003d006100730073006f006300690061002500450037002500450033006f002b0065002b007400720061006600690063006f002b0065002b0068006500640069006f006e0064006f00260075003d0068007400740070003a002f002f007700770077002e007300740066002e0067
+006f0076002e00620072002f004a007500720069007300700072007500640065006e006300690061002f00000003000000680034000000}}}{\fldrslt {\cs24\ul\cf2\insrsid16282111\charrsid16282111 
+http://gemini.stf.gov.br/cgi-bin/nph-brs?d=SJUR&s1=associa%E7%E3o+e+trafico+e+hediondo&u=http://www.stf.gov.br/Jurisprudencia/ - h4}}}{\b\i\f0\fs28\ulw\insrsid16282111 tr\'e1fico, tipificado no art. 12, \'fa
+nico daquele diploma a que se aplica a Lei dos Crimes }{\field{\*\fldinst {\b\i\f0\fs28\ulw\insrsid16282111  HYPERLINK "http://gemini.stf.gov.br/cgi-bin/nph-brs?d=SJUR&s1=associa%E7%E3o+e+trafico+e+hediondo&u=http://www.stf.gov.br/Jurisprudencia/" \\
+l "h3" }{\b\i\f0\fs28\ulw\insrsid16282111\charrsid16282111 {\*\datafield 
+08d0c9ea79f9bace118c8200aa004ba90b020000000b000000e0c9ea79f9bace118c8200aa004ba90bfe00000068007400740070003a002f002f00670065006d0069006e0069002e007300740066002e0067006f0076002e00620072002f006300670069002d00620069006e002f006e00700068002d006200720073003f00
+64003d0053004a00550052002600730031003d006100730073006f006300690061002500450037002500450033006f002b0065002b007400720061006600690063006f002b0065002b0068006500640069006f006e0064006f00260075003d0068007400740070003a002f002f007700770077002e007300740066002e0067
+006f0076002e00620072002f004a007500720069007300700072007500640065006e006300690061002f00000003000000680033000000}}}{\fldrslt {\cs24\ul\cf2\insrsid16282111\charrsid16282111 
+http://gemini.stf.gov.br/cgi-bin/nph-brs?d=SJUR&s1=associa%E7%E3o+e+trafico+e+hediondo&u=http://www.stf.gov.br/Jurisprudencia/ - h3}}}{\field{\*\fldinst {\b\i\f0\fs28\ulw\insrsid16282111 
+ HYPERLINK "http://gemini.stf.gov.br/cgi-bin/nph-brs?d=SJUR&s1=associa%E7%E3o+e+trafico+e+hediondo&u=http://www.stf.gov.br/Jurisprudencia/" \\l "h5" }{\b\i\f0\fs28\ulw\insrsid16282111\charrsid16282111 {\*\datafield 
+08d0c9ea79f9bace118c8200aa004ba90b020000000b000000e0c9ea79f9bace118c8200aa004ba90bfe00000068007400740070003a002f002f00670065006d0069006e0069002e007300740066002e0067006f0076002e00620072002f006300670069002d00620069006e002f006e00700068002d006200720073003f00
+64003d0053004a00550052002600730031003d006100730073006f006300690061002500450037002500450033006f002b0065002b007400720061006600690063006f002b0065002b0068006500640069006f006e0064006f00260075003d0068007400740070003a002f002f007700770077002e007300740066002e0067
+006f0076002e00620072002f004a007500720069007300700072007500640065006e006300690061002f00000003000000680035000000}}}{\fldrslt {\cs24\ul\cf2\insrsid16282111\charrsid16282111 
+http://gemini.stf.gov.br/cgi-bin/nph-brs?d=SJUR&s1=associa%E7%E3o+e+trafico+e+hediondo&u=http://www.stf.gov.br/Jurisprudencia/ - h5}}}{\b\i\f0\fs28\ulw\insrsid16282111 Hediondos. "}{\i\f0\fs28\ulw\insrsid16282111 
+\par }\pard \qj \li0\ri0\sl360\slmult1\widctlpar\faauto\adjustright\rin0\lin0\itap0 {\f0\fs28\insrsid16282111 
+\par \tab \tab \tab \tab Ressalte-se, que por tratar-se de uma Lei especial penal restritiva de direito deve esta ser interpretada restritivamente, n\'e3o cabendo ao Magistrado amplia\'e7\'e3o, tornando o delito tipificado no artigo 14 da Lei n\'ba
+ 6368/76, tamb\'e9m, equiparado ao crime hediondo.
+\par 
+\par \tab \tab \tab \tab Fato este que deixou o representante do Parquet inconformado com a decis\'e3o, o que o levou a insurgir-se contra a mesma.
+\par 
+\par 
+\par 
+\par }{\f0\insrsid16282111 \tab \tab \tab \tab }{\b\f0\fs28\insrsid16282111 Ex Positis}{\f0\insrsid16282111 , }{\f0\fs28\insrsid16282111 cristalino restou que a decis\'e3o proferida nos autos da execu\'e7\'e3o est\'e1
+ de acordo com as garantias Constitucionais, esperando o Agravado que este Tribunal demonstrando respeito \'e0s normas mantenha a decis\'e3o proferida, por ser medida da mais salutar }{\b\f0\fs28\insrsid16282111 J U S T I \'c7 A}{\f0\fs28\insrsid16282111 
+.
+\par 
+\par }\pard \qc \li0\ri0\sl360\slmult1\widctlpar\faauto\adjustright\rin0\lin0\itap0 {\f0\fs28\insrsid16282111 Rio de Janeiro, 03 de outubro de 2002.
+\par 
+\par }}

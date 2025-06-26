@@ -1,0 +1,279 @@
+{\rtf1\ansi\ansicpg1252\uc1\deff0\stshfdbch0\stshfloch0\stshfhich0\stshfbi0\deflang1046\deflangfe1046{\fonttbl{\f0\froman\fcharset0\fprq2{\*\panose 02020603050405020304}Times New Roman;}{\f1\fswiss\fcharset0\fprq2{\*\panose 020b0604020202020204}Arial;}
+{\f2\fmodern\fcharset0\fprq1{\*\panose 02070309020205020404}Courier New;}{\f10\fnil\fcharset2\fprq2{\*\panose 05000000000000000000}Wingdings;}{\f36\fdecor\fcharset0\fprq2{\*\panose 04020705040a02060702}Algerian{\*\falt Courier New};}
+{\f37\fswiss\fcharset0\fprq2{\*\panose 020e0602020502020306}Berlin Sans FB{\*\falt Arial};}{\f38\fswiss\fcharset0\fprq2{\*\panose 020b0502020202020204}Century Gothic;}{\f60\froman\fcharset238\fprq2 Times New Roman CE;}
+{\f61\froman\fcharset204\fprq2 Times New Roman Cyr;}{\f63\froman\fcharset161\fprq2 Times New Roman Greek;}{\f64\froman\fcharset162\fprq2 Times New Roman Tur;}{\f65\froman\fcharset177\fprq2 Times New Roman (Hebrew);}
+{\f66\froman\fcharset178\fprq2 Times New Roman (Arabic);}{\f67\froman\fcharset186\fprq2 Times New Roman Baltic;}{\f68\froman\fcharset163\fprq2 Times New Roman (Vietnamese);}{\f70\fswiss\fcharset238\fprq2 Arial CE;}
+{\f71\fswiss\fcharset204\fprq2 Arial Cyr;}{\f73\fswiss\fcharset161\fprq2 Arial Greek;}{\f74\fswiss\fcharset162\fprq2 Arial Tur;}{\f75\fswiss\fcharset177\fprq2 Arial (Hebrew);}{\f76\fswiss\fcharset178\fprq2 Arial (Arabic);}
+{\f77\fswiss\fcharset186\fprq2 Arial Baltic;}{\f78\fswiss\fcharset163\fprq2 Arial (Vietnamese);}{\f80\fmodern\fcharset238\fprq1 Courier New CE;}{\f81\fmodern\fcharset204\fprq1 Courier New Cyr;}{\f83\fmodern\fcharset161\fprq1 Courier New Greek;}
+{\f84\fmodern\fcharset162\fprq1 Courier New Tur;}{\f85\fmodern\fcharset177\fprq1 Courier New (Hebrew);}{\f86\fmodern\fcharset178\fprq1 Courier New (Arabic);}{\f87\fmodern\fcharset186\fprq1 Courier New Baltic;}
+{\f88\fmodern\fcharset163\fprq1 Courier New (Vietnamese);}{\f440\fswiss\fcharset238\fprq2 Century Gothic CE;}{\f441\fswiss\fcharset204\fprq2 Century Gothic Cyr;}{\f443\fswiss\fcharset161\fprq2 Century Gothic Greek;}
+{\f444\fswiss\fcharset162\fprq2 Century Gothic Tur;}{\f447\fswiss\fcharset186\fprq2 Century Gothic Baltic;}}{\colortbl;\red0\green0\blue0;\red0\green0\blue255;\red0\green255\blue255;\red0\green255\blue0;\red255\green0\blue255;\red255\green0\blue0;
+\red255\green255\blue0;\red255\green255\blue255;\red0\green0\blue128;\red0\green128\blue128;\red0\green128\blue0;\red128\green0\blue128;\red128\green0\blue0;\red128\green128\blue0;\red128\green128\blue128;\red192\green192\blue192;}{\stylesheet{
+\ql \li0\ri0\widctlpar\faauto\adjustright\rin0\lin0\itap0 \fs24\lang1046\langfe1046\cgrid\langnp1046\langfenp1046 \snext0 Normal;}{\s1\qj \li0\ri0\sl360\slmult1\keepn\widctlpar\faauto\outlinelevel0\adjustright\rin0\lin0\itap0 
+\f37\fs28\lang1046\langfe1046\cgrid\langnp1046\langfenp1046 \sbasedon0 \snext0 heading 1;}{\s2\qc \li0\ri0\sl360\slmult1\keepn\widctlpar\faauto\outlinelevel1\adjustright\rin0\lin0\itap0 \b\f38\fs24\lang1046\langfe1046\cgrid\langnp1046\langfenp1046 
+\sbasedon0 \snext0 heading 2;}{\s3\qj \li0\ri0\sl360\slmult1\keepn\widctlpar\faauto\outlinelevel2\adjustright\rin0\lin0\itap0 \b\f1\fs24\lang1046\langfe1046\cgrid\langnp1046\langfenp1046 \sbasedon0 \snext0 heading 3;}{
+\s4\qj \li0\ri0\keepn\widctlpar\faauto\outlinelevel3\adjustright\rin0\lin0\itap0 \f1\fs24\ul\lang1046\langfe1046\cgrid\langnp1046\langfenp1046 \sbasedon0 \snext0 heading 4;}{\*\cs10 \additive \ssemihidden Default Paragraph Font;}{\*
+\ts11\tsrowd\trftsWidthB3\trpaddl108\trpaddr108\trpaddfl3\trpaddft3\trpaddfb3\trpaddfr3\trcbpat1\trcfpat1\tscellwidthfts0\tsvertalt\tsbrdrt\tsbrdrl\tsbrdrb\tsbrdrr\tsbrdrdgl\tsbrdrdgr\tsbrdrh\tsbrdrv 
+\ql \li0\ri0\widctlpar\aspalpha\aspnum\faauto\adjustright\rin0\lin0\itap0 \fs20\lang1024\langfe1024\cgrid\langnp1024\langfenp1024 \snext11 \ssemihidden Normal Table;}{\s15\qj \li0\ri0\widctlpar\faauto\adjustright\rin0\lin0\itap0 
+\f37\fs28\lang1046\langfe1046\cgrid\langnp1046\langfenp1046 \sbasedon0 \snext15 Body Text;}{\s16\ql \li0\ri0\widctlpar\tqc\tx4419\tqr\tx8838\faauto\adjustright\rin0\lin0\itap0 \fs24\lang1046\langfe1046\cgrid\langnp1046\langfenp1046 \sbasedon0 \snext16 
+header;}}{\*\listtable{\list\listtemplateid-160147202{\listlevel\levelnfc0\levelnfcn0\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace0\levelindent0{\leveltext\'02\'00.;}{\levelnumbers\'01;}\fbias0 \fi-360\li1770\jclisttab\tx1770\lin1770 }
+{\listlevel\levelnfc4\levelnfcn4\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace0\levelindent0{\leveltext\'02\'01.;}{\levelnumbers\'01;}\fi-360\li2490\jclisttab\tx2490\lin2490 }{\listlevel\levelnfc2\levelnfcn2\leveljc2\leveljcn2\levelfollow0
+\levelstartat1\levelspace0\levelindent0{\leveltext\'02\'02.;}{\levelnumbers\'01;}\fi-180\li3210\jclisttab\tx3210\lin3210 }{\listlevel\levelnfc0\levelnfcn0\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace0\levelindent0{\leveltext
+\'02\'03.;}{\levelnumbers\'01;}\fi-360\li3930\jclisttab\tx3930\lin3930 }{\listlevel\levelnfc4\levelnfcn4\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace0\levelindent0{\leveltext\'02\'04.;}{\levelnumbers\'01;}\fi-360\li4650
+\jclisttab\tx4650\lin4650 }{\listlevel\levelnfc2\levelnfcn2\leveljc2\leveljcn2\levelfollow0\levelstartat1\levelspace0\levelindent0{\leveltext\'02\'05.;}{\levelnumbers\'01;}\fi-180\li5370\jclisttab\tx5370\lin5370 }{\listlevel\levelnfc0\levelnfcn0\leveljc0
+\leveljcn0\levelfollow0\levelstartat1\levelspace0\levelindent0{\leveltext\'02\'06.;}{\levelnumbers\'01;}\fi-360\li6090\jclisttab\tx6090\lin6090 }{\listlevel\levelnfc4\levelnfcn4\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace0\levelindent0
+{\leveltext\'02\'07.;}{\levelnumbers\'01;}\fi-360\li6810\jclisttab\tx6810\lin6810 }{\listlevel\levelnfc2\levelnfcn2\leveljc2\leveljcn2\levelfollow0\levelstartat1\levelspace0\levelindent0{\leveltext\'02\'08.;}{\levelnumbers\'01;}\fi-180\li7530
+\jclisttab\tx7530\lin7530 }{\listname ;}\listid33503875}{\list\listtemplateid-1475814856{\listlevel\levelnfc0\levelnfcn0\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace0\levelindent0{\leveltext\'02\'00.;}{\levelnumbers\'01;}\i0\fbias0 
+\fi-2430\li4554\jclisttab\tx4554\lin4554 }{\listlevel\levelnfc4\levelnfcn4\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace0\levelindent0{\leveltext\'02\'01.;}{\levelnumbers\'01;}\fi-360\li3204\jclisttab\tx3204\lin3204 }{\listlevel\levelnfc2
+\levelnfcn2\leveljc2\leveljcn2\levelfollow0\levelstartat1\levelspace0\levelindent0{\leveltext\'02\'02.;}{\levelnumbers\'01;}\fi-180\li3924\jclisttab\tx3924\lin3924 }{\listlevel\levelnfc0\levelnfcn0\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace0
+\levelindent0{\leveltext\'02\'03.;}{\levelnumbers\'01;}\fi-360\li4644\jclisttab\tx4644\lin4644 }{\listlevel\levelnfc4\levelnfcn4\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace0\levelindent0{\leveltext\'02\'04.;}{\levelnumbers\'01;}\fi-360\li5364
+\jclisttab\tx5364\lin5364 }{\listlevel\levelnfc2\levelnfcn2\leveljc2\leveljcn2\levelfollow0\levelstartat1\levelspace0\levelindent0{\leveltext\'02\'05.;}{\levelnumbers\'01;}\fi-180\li6084\jclisttab\tx6084\lin6084 }{\listlevel\levelnfc0\levelnfcn0\leveljc0
+\leveljcn0\levelfollow0\levelstartat1\levelspace0\levelindent0{\leveltext\'02\'06.;}{\levelnumbers\'01;}\fi-360\li6804\jclisttab\tx6804\lin6804 }{\listlevel\levelnfc4\levelnfcn4\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace0\levelindent0
+{\leveltext\'02\'07.;}{\levelnumbers\'01;}\fi-360\li7524\jclisttab\tx7524\lin7524 }{\listlevel\levelnfc2\levelnfcn2\leveljc2\leveljcn2\levelfollow0\levelstartat1\levelspace0\levelindent0{\leveltext\'02\'08.;}{\levelnumbers\'01;}\fi-180\li8244
+\jclisttab\tx8244\lin8244 }{\listname ;}\listid295454532}{\list\listtemplateid-759814110{\listlevel\levelnfc0\levelnfcn0\leveljc0\leveljcn0\levelfollow0\levelstartat21\levelspace0\levelindent0{\leveltext\'02\'00.;}{\levelnumbers\'01;}\fbias0 
+\fi-690\li2820\jclisttab\tx2820\lin2820 }{\listlevel\levelnfc4\levelnfcn4\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace0\levelindent0{\leveltext\'02\'01.;}{\levelnumbers\'01;}\fi-360\li3210\jclisttab\tx3210\lin3210 }{\listlevel\levelnfc2
+\levelnfcn2\leveljc2\leveljcn2\levelfollow0\levelstartat1\levelspace0\levelindent0{\leveltext\'02\'02.;}{\levelnumbers\'01;}\fi-180\li3930\jclisttab\tx3930\lin3930 }{\listlevel\levelnfc0\levelnfcn0\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace0
+\levelindent0{\leveltext\'02\'03.;}{\levelnumbers\'01;}\fi-360\li4650\jclisttab\tx4650\lin4650 }{\listlevel\levelnfc4\levelnfcn4\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace0\levelindent0{\leveltext\'02\'04.;}{\levelnumbers\'01;}\fi-360\li5370
+\jclisttab\tx5370\lin5370 }{\listlevel\levelnfc2\levelnfcn2\leveljc2\leveljcn2\levelfollow0\levelstartat1\levelspace0\levelindent0{\leveltext\'02\'05.;}{\levelnumbers\'01;}\fi-180\li6090\jclisttab\tx6090\lin6090 }{\listlevel\levelnfc0\levelnfcn0\leveljc0
+\leveljcn0\levelfollow0\levelstartat1\levelspace0\levelindent0{\leveltext\'02\'06.;}{\levelnumbers\'01;}\fi-360\li6810\jclisttab\tx6810\lin6810 }{\listlevel\levelnfc4\levelnfcn4\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace0\levelindent0
+{\leveltext\'02\'07.;}{\levelnumbers\'01;}\fi-360\li7530\jclisttab\tx7530\lin7530 }{\listlevel\levelnfc2\levelnfcn2\leveljc2\leveljcn2\levelfollow0\levelstartat1\levelspace0\levelindent0{\leveltext\'02\'08.;}{\levelnumbers\'01;}\fi-180\li8250
+\jclisttab\tx8250\lin8250 }{\listname ;}\listid450638327}{\list\listtemplateid-1927933314{\listlevel\levelnfc0\levelnfcn0\leveljc0\leveljcn0\levelfollow0\levelstartat15\levelspace0\levelindent0{\leveltext\'02\'00.;}{\levelnumbers\'01;}\fbias0 
+\fi-2880\li5004\jclisttab\tx5004\lin5004 }{\listlevel\levelnfc4\levelnfcn4\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace0\levelindent0{\leveltext\'02\'01.;}{\levelnumbers\'01;}\fi-360\li3204\jclisttab\tx3204\lin3204 }{\listlevel\levelnfc2
+\levelnfcn2\leveljc2\leveljcn2\levelfollow0\levelstartat1\levelspace0\levelindent0{\leveltext\'02\'02.;}{\levelnumbers\'01;}\fi-180\li3924\jclisttab\tx3924\lin3924 }{\listlevel\levelnfc0\levelnfcn0\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace0
+\levelindent0{\leveltext\'02\'03.;}{\levelnumbers\'01;}\fi-360\li4644\jclisttab\tx4644\lin4644 }{\listlevel\levelnfc4\levelnfcn4\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace0\levelindent0{\leveltext\'02\'04.;}{\levelnumbers\'01;}\fi-360\li5364
+\jclisttab\tx5364\lin5364 }{\listlevel\levelnfc2\levelnfcn2\leveljc2\leveljcn2\levelfollow0\levelstartat1\levelspace0\levelindent0{\leveltext\'02\'05.;}{\levelnumbers\'01;}\fi-180\li6084\jclisttab\tx6084\lin6084 }{\listlevel\levelnfc0\levelnfcn0\leveljc0
+\leveljcn0\levelfollow0\levelstartat1\levelspace0\levelindent0{\leveltext\'02\'06.;}{\levelnumbers\'01;}\fi-360\li6804\jclisttab\tx6804\lin6804 }{\listlevel\levelnfc4\levelnfcn4\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace0\levelindent0
+{\leveltext\'02\'07.;}{\levelnumbers\'01;}\fi-360\li7524\jclisttab\tx7524\lin7524 }{\listlevel\levelnfc2\levelnfcn2\leveljc2\leveljcn2\levelfollow0\levelstartat1\levelspace0\levelindent0{\leveltext\'02\'08.;}{\levelnumbers\'01;}\fi-180\li8244
+\jclisttab\tx8244\lin8244 }{\listname ;}\listid591621234}{\list\listtemplateid1626904630{\listlevel\levelnfc0\levelnfcn0\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace0\levelindent0{\leveltext\'02\'00.;}{\levelnumbers\'01;}\fbias0 
+\fi-2430\li4554\jclisttab\tx4554\lin4554 }{\listlevel\levelnfc4\levelnfcn4\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace0\levelindent0{\leveltext\'02\'01.;}{\levelnumbers\'01;}\fi-360\li3204\jclisttab\tx3204\lin3204 }{\listlevel\levelnfc2
+\levelnfcn2\leveljc2\leveljcn2\levelfollow0\levelstartat1\levelspace0\levelindent0{\leveltext\'02\'02.;}{\levelnumbers\'01;}\fi-180\li3924\jclisttab\tx3924\lin3924 }{\listlevel\levelnfc0\levelnfcn0\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace0
+\levelindent0{\leveltext\'02\'03.;}{\levelnumbers\'01;}\fi-360\li4644\jclisttab\tx4644\lin4644 }{\listlevel\levelnfc4\levelnfcn4\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace0\levelindent0{\leveltext\'02\'04.;}{\levelnumbers\'01;}\fi-360\li5364
+\jclisttab\tx5364\lin5364 }{\listlevel\levelnfc2\levelnfcn2\leveljc2\leveljcn2\levelfollow0\levelstartat1\levelspace0\levelindent0{\leveltext\'02\'05.;}{\levelnumbers\'01;}\fi-180\li6084\jclisttab\tx6084\lin6084 }{\listlevel\levelnfc0\levelnfcn0\leveljc0
+\leveljcn0\levelfollow0\levelstartat1\levelspace0\levelindent0{\leveltext\'02\'06.;}{\levelnumbers\'01;}\fi-360\li6804\jclisttab\tx6804\lin6804 }{\listlevel\levelnfc4\levelnfcn4\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace0\levelindent0
+{\leveltext\'02\'07.;}{\levelnumbers\'01;}\fi-360\li7524\jclisttab\tx7524\lin7524 }{\listlevel\levelnfc2\levelnfcn2\leveljc2\leveljcn2\levelfollow0\levelstartat1\levelspace0\levelindent0{\leveltext\'02\'08.;}{\levelnumbers\'01;}\fi-180\li8244
+\jclisttab\tx8244\lin8244 }{\listname ;}\listid1238855793}{\list\listtemplateid-1981130638{\listlevel\levelnfc0\levelnfcn0\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace0\levelindent0{\leveltext\'02\'00.;}{\levelnumbers\'01;}\fbias0 
+\fi-555\li555\jclisttab\tx555\lin555 }{\listlevel\levelnfc0\levelnfcn0\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace0\levelindent0{\leveltext\'04\'00.\'01);}{\levelnumbers\'01\'03;}\fbias0 \fi-720\li2130\jclisttab\tx2130\lin2130 }{\listlevel
+\levelnfc0\levelnfcn0\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace0\levelindent0{\leveltext\'06\'00.\'01)\'02.;}{\levelnumbers\'01\'03\'05;}\fbias0 \fi-720\li3540\jclisttab\tx3540\lin3540 }{\listlevel\levelnfc0\levelnfcn0\leveljc0\leveljcn0
+\levelfollow0\levelstartat1\levelspace0\levelindent0{\leveltext\'08\'00.\'01)\'02.\'03.;}{\levelnumbers\'01\'03\'05\'07;}\fbias0 \fi-1080\li5310\jclisttab\tx5310\lin5310 }{\listlevel\levelnfc0\levelnfcn0\leveljc0\leveljcn0\levelfollow0\levelstartat1
+\levelspace0\levelindent0{\leveltext\'0a\'00.\'01)\'02.\'03.\'04.;}{\levelnumbers\'01\'03\'05\'07\'09;}\fbias0 \fi-1080\li6720\jclisttab\tx6720\lin6720 }{\listlevel\levelnfc0\levelnfcn0\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace0
+\levelindent0{\leveltext\'0c\'00.\'01)\'02.\'03.\'04.\'05.;}{\levelnumbers\'01\'03\'05\'07\'09\'0b;}\fbias0 \fi-1440\li8490\jclisttab\tx8490\lin8490 }{\listlevel\levelnfc0\levelnfcn0\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace0\levelindent0
+{\leveltext\'0e\'00.\'01)\'02.\'03.\'04.\'05.\'06.;}{\levelnumbers\'01\'03\'05\'07\'09\'0b\'0d;}\fbias0 \fi-1440\li9900\jclisttab\tx9900\lin9900 }{\listlevel\levelnfc0\levelnfcn0\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace0\levelindent0
+{\leveltext\'10\'00.\'01)\'02.\'03.\'04.\'05.\'06.\'07.;}{\levelnumbers\'01\'03\'05\'07\'09\'0b\'0d\'0f;}\fbias0 \fi-1800\li11670\jclisttab\tx11670\lin11670 }{\listlevel\levelnfc0\levelnfcn0\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace0
+\levelindent0{\leveltext\'12\'00.\'01)\'02.\'03.\'04.\'05.\'06.\'07.\'08.;}{\levelnumbers\'01\'03\'05\'07\'09\'0b\'0d\'0f\'11;}\fbias0 \fi-2160\li13440\jclisttab\tx13440\lin13440 }{\listname ;}\listid1821775531}}{\*\listoverridetable
+{\listoverride\listid591621234\listoverridecount0\ls1}{\listoverride\listid450638327\listoverridecount0\ls2}{\listoverride\listid295454532\listoverridecount0\ls3}{\listoverride\listid1238855793\listoverridecount0\ls4}{\listoverride\listid33503875
+\listoverridecount0\ls5}{\listoverride\listid1821775531\listoverridecount0\ls6}}{\*\rsidtbl \rsid14514403}{\*\generator Microsoft Word 10.0.2627;}{\info{\title EXMO}{\author khkh}{\operator Guilherme}{\creatim\yr2004\mo3\dy18\hr13\min23}
+{\revtim\yr2005\mo9\dy4\hr19\min32}{\printim\yr2004\mo3\dy8\hr22\min52}{\version3}{\edmins0}{\nofpages17}{\nofwords2493}{\nofchars13467}{\*\company kgkhkhk}{\nofcharsws15929}{\vern16437}}\margl2880\margr1080\margt2340\margb1417 
+\deftab708\widowctrl\ftnbj\aenddoc\hyphhotz425\noxlattoyen\expshrtn\noultrlspc\dntblnsbdb\nospaceforul\hyphcaps0\formshade\horzdoc\dghspace120\dgvspace120\dghorigin1701\dgvorigin1984\dghshow0\dgvshow3
+\jcompress\viewkind1\viewscale75\pgbrdrhead\pgbrdrfoot\nolnhtadjtbl\rsidroot14514403 \fet0\sectd \linex0\headery708\footery708\colsx708\endnhere\sectlinegrid360\sectdefaultcl\sftnbj {\header \pard\plain \s16\qc \li0\ri0\widctlpar
+\tqc\tx4419\tqr\tx8838\faauto\adjustright\rin0\lin0\itap0 \fs24\lang1046\langfe1046\cgrid\langnp1046\langfenp1046 {\f36\fs32\insrsid14514403 
+\par }}{\*\pnseclvl1\pnucrm\pnstart1\pnindent720\pnhang {\pntxta .}}{\*\pnseclvl2\pnucltr\pnstart1\pnindent720\pnhang {\pntxta .}}{\*\pnseclvl3\pndec\pnstart1\pnindent720\pnhang {\pntxta .}}{\*\pnseclvl4\pnlcltr\pnstart1\pnindent720\pnhang {\pntxta )}}
+{\*\pnseclvl5\pndec\pnstart1\pnindent720\pnhang {\pntxtb (}{\pntxta )}}{\*\pnseclvl6\pnlcltr\pnstart1\pnindent720\pnhang {\pntxtb (}{\pntxta )}}{\*\pnseclvl7\pnlcrm\pnstart1\pnindent720\pnhang {\pntxtb (}{\pntxta )}}{\*\pnseclvl8
+\pnlcltr\pnstart1\pnindent720\pnhang {\pntxtb (}{\pntxta )}}{\*\pnseclvl9\pnlcrm\pnstart1\pnindent720\pnhang {\pntxtb (}{\pntxta )}}\pard\plain \s15\qj \li0\ri0\widctlpar\faauto\adjustright\rin0\lin0\itap0 
+\f37\fs28\lang1046\langfe1046\cgrid\langnp1046\langfenp1046 {\f2\fs26\insrsid14514403 EXMO. SR. DR. JUIZ DE DIREITO DA 30\'aa VARA C\'cdVEL DA COMARCA DA CAPITAL DO ESTADO DO RIO DE JANEIRO
+\par }\pard\plain \qj \li0\ri0\sl360\slmult1\widctlpar\faauto\adjustright\rin0\lin0\itap0 \fs24\lang1046\langfe1046\cgrid\langnp1046\langfenp1046 {\f2\fs26\insrsid14514403 
+\par }\pard \qj \fi708\li0\ri0\sl360\slmult1\widctlpar\faauto\adjustright\rin0\lin0\itap0 {\f2\fs26\insrsid14514403 
+\par }\pard \qj \li0\ri0\sl360\slmult1\widctlpar\faauto\adjustright\rin0\lin0\itap0 {\f2\fs26\insrsid14514403 
+\par }\pard\plain \s1\qj \li0\ri0\sl360\slmult1\keepn\widctlpar\faauto\outlinelevel0\adjustright\rin0\lin0\itap0 \f37\fs28\lang1046\langfe1046\cgrid\langnp1046\langfenp1046 {\f2\fs26\insrsid14514403 Processo n.\'b03}{\f2\fs26\insrsid14514403 /}{
+\f2\fs26\insrsid14514403 125929-7
+\par }\pard\plain \ql \li0\ri0\sl360\slmult1\widctlpar\faauto\adjustright\rin0\lin0\itap0 \fs24\lang1046\langfe1046\cgrid\langnp1046\langfenp1046 {\f2\fs26\insrsid14514403 
+\par 
+\par }\pard\plain \s16\ql \li0\ri0\sl360\slmult1\widctlpar\faauto\adjustright\rin0\lin0\itap0 \fs24\lang1046\langfe1046\cgrid\langnp1046\langfenp1046 {\f2\fs26\insrsid14514403 
+\par }\pard\plain \ql \li0\ri0\sl360\slmult1\widctlpar\faauto\adjustright\rin0\lin0\itap0 \fs24\lang1046\langfe1046\cgrid\langnp1046\langfenp1046 {\f2\fs26\insrsid14514403 
+\par }\pard \qj \li0\ri0\sl360\slmult1\widctlpar\faauto\adjustright\rin0\lin0\itap0 {\f2\fs26\insrsid14514403 \tab \tab , j\'e1 qualificado nos autos da }{\f2\fs26\ul\insrsid14514403 A\'e7\'e3o de   Declarat\'f3ria   de Nulidade  de Cl\'e1usula Contratual  C/C
+}{\f2\fs26\insrsid14514403  }{\f2\fs26\ul\insrsid14514403 Revisional de Obriga\'e7\'e3o  Credit\'edcia   e   c/c com Repeti\'e7\'e3o de Ind\'e9bito  c/c  Pedido de Antecipa\'e7\'e3o dos Efeitos da Tutela}{\f2\fs26\insrsid14514403 , movida em face de  }{
+\b\f2\fs26\insrsid14514403 BBV \endash  ADMINISTRADORA DE CART\'d5ES LTDA.}{\f2\fs26\insrsid14514403 , vem, pela Defensoria P\'fablica, apresentar
+\par }\pard \qj \li0\ri0\widctlpar\faauto\adjustright\rin0\lin0\itap0 {\f2\fs26\insrsid14514403 
+\par }\pard\plain \s2\qc \li0\ri0\keepn\widctlpar\faauto\outlinelevel1\adjustright\rin0\lin0\itap0 \b\f38\fs24\lang1046\langfe1046\cgrid\langnp1046\langfenp1046 {\f2\fs26\insrsid14514403 R\'c9PLICA
+\par }\pard\plain \qc \li0\ri0\widctlpar\faauto\adjustright\rin0\lin0\itap0 \fs24\lang1046\langfe1046\cgrid\langnp1046\langfenp1046 {\b\f2\fs26\insrsid14514403 
+\par }\pard \qj \li0\ri0\sl360\slmult1\widctlpar\faauto\adjustright\rin0\lin0\itap0 {\f2\fs26\insrsid14514403 Aduzindo os seguintes fatos e fundamentos:
+\par }\pard \qj \li0\ri0\widctlpar\faauto\adjustright\rin0\lin0\itap0 {\f2\fs26\insrsid14514403 
+\par }\pard\plain \s3\qj \li0\ri0\keepn\widctlpar\faauto\outlinelevel2\adjustright\rin0\lin0\itap0 \b\f1\fs24\lang1046\langfe1046\cgrid\langnp1046\langfenp1046 {\f2\fs26\insrsid14514403 DA PRELIMINAR 
+\par }\pard\plain \qj \li0\ri0\sl360\slmult1\widctlpar\faauto\adjustright\rin0\lin0\itap0 \fs24\lang1046\langfe1046\cgrid\langnp1046\langfenp1046 {\f2\fs26\insrsid14514403 
+\par \tab \tab Diferentemente do que pretende a r\'e9, o autor faz jus a todos os pedidos que a \'e9poca foram feitos e que s\'e3o ratificados, uma vez que \'e9 fato not\'f3rio a cobran\'e7a de juros exorbitantes que as administradoras de cart\'e3o de cr\'e9
+dito repassam ao consumidor. Por tal motivo, h\'e1 desencadeamento l\'f3gico da narra\'e7\'e3o dos fatos at\'e9 chegar \'e0 conclus\'e3o, afastando a preliminar arg\'fcida.
+\par 
+\par }\pard\plain \s3\qj \li0\ri0\keepn\widctlpar\faauto\outlinelevel2\adjustright\rin0\lin0\itap0 \b\f1\fs24\lang1046\langfe1046\cgrid\langnp1046\langfenp1046 {\f2\fs26\insrsid14514403 DOS FATOS E DO DIREITO
+\par }\pard\plain \qj \li0\ri0\sl360\slmult1\widctlpar\faauto\adjustright\rin0\lin0\itap0 \fs24\lang1046\langfe1046\cgrid\langnp1046\langfenp1046 {\f2\fs26\insrsid14514403 
+\par \tab \tab A r\'e9 em sua contesta\'e7\'e3o (fls. 48/73) alega que a aquisi\'e7\'e3o}{\b\f2\fs26\insrsid14514403  }{\f2\fs26\insrsid14514403 do cart\'e3o de cr\'e9dito n\'ba 544670.8800.2911.5389 pelo autor, foi por sua livre e espont\'e2nea vontade.  
+
+\par 
+\par }\pard\plain \s16\qj \li0\ri0\sl360\slmult1\widctlpar\faauto\adjustright\rin0\lin0\itap0 \fs24\lang1046\langfe1046\cgrid\langnp1046\langfenp1046 {\f2\fs26\insrsid14514403  \tab \tab Cumpre destacar que o cart\'e3o de cr\'e9dito \'e9
+ uma forma de democratiza\'e7\'e3o do cr\'e9dito de curto e de m\'e9dio prazo, que evita os riscos e os inc\'f4modos do transporte de dinheiro, bem como propicia a compra de servi\'e7os a prazo (FRAN MARTINS, }{\i\f2\fs26\insrsid14514403 Cart\'f5es de Cr
+\'e9dito}{\f2\fs26\insrsid14514403 ).
+\par }\pard \s16\qj \fi2124\li0\ri0\sl360\slmult1\widctlpar\faauto\adjustright\rin0\lin0\itap0 {\f2\fs26\insrsid14514403 
+\par }\pard \s16\qj \li0\ri0\sl360\slmult1\widctlpar\faauto\adjustright\rin0\lin0\itap0 {\f2\fs26\insrsid14514403  \tab \tab Sendo assim, o}{\b\f2\fs26\insrsid14514403  autor}{\f2\fs26\insrsid14514403  adquiriu o cart\'e3o de cr\'e9dito oferecido pela r\'e9
+, a fim de melhor administrar seus gastos, com a possibilidade de financiar suas despesas, todavia, jamais imaginou que a \'93pre\'e7o\'94 t\'e3o alto, literalmente.
+\par }\pard\plain \s15\qj \fi709\li0\ri0\sl360\slmult1\widctlpar\faauto\adjustright\rin0\lin0\itap0 \f37\fs28\lang1046\langfe1046\cgrid\langnp1046\langfenp1046 {\f2\fs26\insrsid14514403               
+\par }\pard\plain \s16\qj \li0\ri0\sl360\slmult1\widctlpar\faauto\adjustright\rin0\lin0\itap0 \fs24\lang1046\langfe1046\cgrid\langnp1046\langfenp1046 {\f2\fs26\insrsid14514403  \tab \tab Sendo certo que o contrato }{\i\f2\fs26\insrsid14514403 sub examine}{
+\f2\fs26\insrsid14514403  se constitui em uma rela\'e7\'e3o de consumo, por isso, sob as diretrizes da Lei n.\'b08.078/90, citemos a li\'e7\'e3o de CL\'c1UDIA LIMA MARQUES, }{\i\f2\fs26\insrsid14514403 Contratos no CDC}{\f2\fs26\insrsid14514403 , 1992, p
+\'e1g. 123:
+\par }\pard \s16\qj \fi2880\li0\ri0\sl360\slmult1\widctlpar\faauto\adjustright\rin0\lin0\itap0 {\f2\fs26\insrsid14514403 
+\par }\pard \s16\qj \li2880\ri0\sl360\slmult1\widctlpar\faauto\adjustright\rin0\lin2880\itap0 {\i\f2\fs26\insrsid14514403 \'93Assim, o princ\'edpio cl\'e1ssico de que o contrato n\'e3o pode ser modificado ou suprimido sen\'e3o atrav\'e9s de uma nova manifesta
+\'e7\'e3o volitiva das mesmas partes contratantes sofrer\'e1 limita\'e7\'f5es}{\b\i\f2\fs26\insrsid14514403 .  Aos ju\'edzes \'e9 agora permitido um controle do conte\'fado do contrato}{\i\f2\fs26\insrsid14514403 , como no pr\'f3prio C\'f3
+digo Brasileiro de Defesa do Consumidor, }{\b\i\f2\fs26\insrsid14514403 devendo ser suprimidas as cl\'e1usulas abusivas e substitu\'eddas pela norma legal supletiva}{\i\f2\fs26\insrsid14514403  (art. 51, do CDC).\'94}{\f2\fs26\insrsid14514403 
+      (original sem grifo)
+\par }\pard \s16\qj \fi2124\li0\ri0\sl360\slmult1\widctlpar\faauto\adjustright\rin0\lin0\itap0 {\f2\fs26\insrsid14514403 
+\par }\pard \s16\qj \li0\ri0\sl360\slmult1\widctlpar\faauto\adjustright\rin0\lin0\itap0 {\f2\fs26\insrsid14514403  \tab \tab N\'e3o obstante, os contratos de administra\'e7\'e3o de cart\'f5es de cr\'e9dito s\'e3o, inegavelmente, puros }{
+\b\f2\fs26\insrsid14514403 contratos de ades\'e3o}{\f2\fs26\insrsid14514403  ou como na li\'e7\'e3o de ORLANDO GOMES (}{\i\f2\fs26\insrsid14514403 Contrato de Ades\'e3o}{\f2\fs26\insrsid14514403 , p\'e1gs.5-9) }{\b\f2\fs26\insrsid14514403 
+contratos por ades\'e3o}{\f2\fs26\insrsid14514403  inexistindo a \'93}{\i\f2\fs26\insrsid14514403 caracter\'edstica da irrecusabilidade}{\f2\fs26\insrsid14514403 \'94, onde ao consumidor s\'f3 \'e9 dado o }{\i\f2\fs26\insrsid14514403 \'93direito\'94}{
+\f2\fs26\insrsid14514403  de assinar, ou seja, anuir \'e0s cl\'e1usulas, }{\b\f2\fs26\insrsid14514403 pr\'e9via}{\f2\fs26\insrsid14514403  e }{\b\f2\fs26\insrsid14514403 unilateralmente}{\f2\fs26\insrsid14514403 , fixadas pela administradora (art.
+ 54, do CDC \endash  }{\i\f2\fs26\insrsid14514403 \'93cl\'e1usulas redigidas pr\'e9via e unilateralmente por uma das partes\'94}{\f2\fs26\insrsid14514403 ).
+\par }\pard \s16\qj \fi2880\li0\ri0\sl360\slmult1\widctlpar\faauto\adjustright\rin0\lin0\itap0 {\f2\fs26\insrsid14514403 
+\par }\pard \s16\qj \li0\ri0\sl360\slmult1\widctlpar\faauto\adjustright\rin0\lin0\itap0 {\f2\fs26\insrsid14514403  \tab \tab Segundo CL\'c1UDIA LIMA MARQUES, }{\i\f2\fs26\insrsid14514403 op. cit}{\f2\fs26\insrsid14514403 , 1992, p\'e1g. 31:
+\par }\pard \s16\qj \li2880\ri0\sl360\slmult1\widctlpar\faauto\adjustright\rin0\lin2880\itap0 {\i\f2\fs26\insrsid14514403 
+\par \'93...limita-se o consumidor a aceitar em bloco (muitas vezes sem sequer ler completamente) as cl\'e1usulas, que foram }{\b\i\f2\fs26\insrsid14514403 unilateral e uniformemente pr\'e9-elaboradas pela empresa}{\i\f2\fs26\insrsid14514403 
+, assumindo, assim, um papel de simples aderente \'e0 vontade manifestada pela empresa no }{\b\i\f2\fs26\insrsid14514403 instrumento contratual massificado}{\i\f2\fs26\insrsid14514403 .\'94 }{\f2\fs26\insrsid14514403     (original sem grifo)
+\par }\pard \s16\qj \li0\ri0\sl360\slmult1\widctlpar\faauto\adjustright\rin0\lin0\itap0 {\f2\fs26\insrsid14514403 
+\par  \tab \tab As rela\'e7\'f5es de consumo, segundo o que disp\'f5e o }{\i\f2\fs26\insrsid14514403 caput }{\f2\fs26\insrsid14514403 e inciso III, do art. 4\'b0, do CDC, s\'e3o informadas pelo }{\b\f2\fs26\insrsid14514403 princ\'edpio da boa-f\'e9}{
+\f2\fs26\insrsid14514403  que, considerado em conjunto com o disposto no art. 51, XV, que declara abusiva as cl\'e1usulas que }{\i\f2\fs26\insrsid14514403 \'93estejam em desacordo com o sistema de prote\'e7\'e3o ao consumidor\'94}{
+\f2\fs26\insrsid14514403  e, ainda, considerando-se o fato de                                                                                                que as cl\'e1usulas contratuais que infrinjam frontalmente a lei (}{\f2\fs26\ul\insrsid14514403 
+no caso}{\f2\fs26\insrsid14514403 , al\'e9m das normas consumeristas, tamb\'e9m, as que se referem ao Sistema Financeiro Nacional) n\'e3o podem ser convalidadas, n\'e3o pode o r\'e9u, querer valer-se de cl\'e1
+usulas contratuais abusivas, ilegais e, portanto, nulas de pleno direito.
+\par }\pard \s16\qj \fi2124\li0\ri0\sl360\slmult1\widctlpar\faauto\adjustright\rin0\lin0\itap0 {\f2\fs26\insrsid14514403 
+\par }\pard \s16\qj \li0\ri0\sl360\slmult1\widctlpar\faauto\adjustright\rin0\lin0\itap0 {\f2\fs26\insrsid14514403  \tab \tab Por conseguinte, a inten\'e7\'e3o }{\b\f2\fs26\insrsid14514403 do autor}{\f2\fs26\insrsid14514403  n\'e3o \'e9
+ isentar-se do pagamento da d\'edvida que sabe ter contra\'eddo, por\'e9m, que possa faz\'ea-lo dentro dos limites legais para a corre\'e7\'e3o de seu valor original.  E n\'e3o se diga que o presente pleito fere a seguran\'e7a jur\'ed
+dica, uma vez que esta n\'e3o se permeia, repita-se, pela aceita\'e7\'e3o de que cl\'e1usulas }{\b\f2\fs26\insrsid14514403 abusivas}{\f2\fs26\insrsid14514403  e fixadas }{\b\f2\fs26\insrsid14514403 unilateralmente}{\f2\fs26\insrsid14514403 
+ por uma das partes contratantes, ap\'f3s assinado o contrato, neste caso, de ades\'e3o, estar\'e3o acima da lei, do direito e da justi\'e7a mas sim, }{\b\f2\fs26\insrsid14514403 
+na certeza de que sua ilegalidade, ilegitimidade e falta de razoabilidade ser\'e3o obstadas pelo Poder Judici\'e1rio}{\f2\fs26\insrsid14514403 .
+\par }\pard \s16\qj \li2160\ri0\sl360\slmult1\widctlpar\faauto\adjustright\rin0\lin2160\itap0 {\i\f2\fs26\insrsid14514403 
+\par }\pard \s16\qj \li2880\ri0\sl360\slmult1\widctlpar\faauto\adjustright\rin0\lin2880\itap0 {\f2\fs26\insrsid14514403 
+\par }\pard\plain \qj \li0\ri0\sl360\slmult1\widctlpar\faauto\adjustright\rin0\lin0\itap0 \fs24\lang1046\langfe1046\cgrid\langnp1046\langfenp1046 {\f2\fs26\insrsid14514403 \tab \tab }{\b\f2\fs26\insrsid14514403 {\field{\*\fldinst SYMBOL 216 \\f "Wingdings"
+ \\s 13}{\fldrslt\f10\fs26}}}{\b\f2\fs26\insrsid14514403 Da Cobran\'e7a de Juros acima do limite de 12% ao ano
+\par }{\b\f2\fs26\ul\insrsid14514403 
+\par }{\f2\fs26\insrsid14514403 \tab \tab Pretendeu a r\'e9 demonstrar que o }{\f2\fs26\ul\insrsid14514403 repasse de juros ao autor}{\f2\fs26\insrsid14514403  (consumidor), seria l\'ed
+cito, uma vez que para suportar o financiamento do saldo devedor, ela, administradora, precisa captar recursos junto \'e0s institui\'e7\'f5es financeiras, para quem a limita\'e7\'e3o de juros prevista no \'a73\'b0, do art. 192, da CF, }{
+\b\f2\fs26\insrsid14514403 antes do advento da EC n.\'ba40/03}{\f2\fs26\insrsid14514403 , n\'e3o se aplica (Sumula 596, do STF), estando legitimada a captar tais recursos, em virtude da denominada }{\f2\fs26\ul\insrsid14514403 cl\'e1usula-mandato}{
+\f2\fs26\insrsid14514403 , constante do contrato de administra\'e7\'e3o do referido cart\'e3o de cr\'e9dito.  
+\par 
+\par \tab \tab Diante de tais fatos, algumas considera\'e7\'f5es merecem an\'e1lise.  A primeira, referente \'e0 legalidade da }{\b\f2\fs26\insrsid14514403 cobran\'e7a de juros}{\f2\fs26\insrsid14514403  ao consumidor, }{\b\f2\fs26\insrsid14514403 
+acima do limite de 12% ao ano}{\f2\fs26\insrsid14514403  e, a segunda, quanto \'e0 legalidade da }{\b\f2\fs26\insrsid14514403 cl\'e1usula-mandato}{\f2\fs26\insrsid14514403 .
+\par 
+\par }\pard\plain \s16\qj \fi1440\li0\ri0\sl360\slmult1\widctlpar\faauto\adjustright\rin0\lin0\itap0 \fs24\lang1046\langfe1046\cgrid\langnp1046\langfenp1046 {\f2\fs26\insrsid14514403 Quanto ao repasse dos juros acima do limite determinado por for\'e7
+a de norma constitucional, }{\b\f2\fs26\insrsid14514403 aparentemente}{\f2\fs26\insrsid14514403 , n\'e3o haveria mais o que se questionar, face \'e0 supress\'e3o de todos os par\'e1grafos do art. 192, portanto, inclusive, o \'a7 3\'ba
+, pela Emenda Constitucional n.\'ba40/2003.
+\par 
+\par Contudo, n\'e3o \'e9 bem assim.  }{\b\f2\fs26\insrsid14514403  }{\f2\fs26\insrsid14514403 A Constitui\'e7\'e3o Federal, ao fixar o limite de 12% ao ano teve como objetivo, como n\'e3o poderia deixar de ser, definir um par\'e2metro }{
+\b\f2\fs26\insrsid14514403 gen\'e9rico}{\f2\fs26\insrsid14514403  quanto \'e0 cobran\'e7a de juros, a fim de que fossem evitados os usuais abusos ao poder econ\'f4mico, praticados pelas Institui\'e7\'f5es Financeiras e, tamb\'e9m, por via de conseq\'fc
+\'eancia, \'e0s pr\'f3prias administradoras de recursos financeiros, como \'e9 o caso das administradoras de cart\'f5es de cr\'e9dito.
+\par 
+\par Todavia, n\'e3o se pode deixar de considerar que as normas que regulamentam e limitam a cobran\'e7a de juros continuam em vigor, n\'e3o somente as definidas pelo Banco Central, mas tamb\'e9m, pela Lei n.\'ba1.521/51 (Lei de Economia Popular) al\'e9m do pr
+\'f3prio Decreto n.\'ba22.626/33.
+\par 
+\par Disp\'f5e a Lei n.\'ba1.521/51, em seu art. 4\'ba que:
+\par 
+\par }\pard \s16\qj \li2880\ri0\sl360\slmult1\widctlpar\faauto\adjustright\rin0\lin2880\itap0 {\i\f2\fs26\insrsid14514403 A }{\b\i\f2\fs26\insrsid14514403 estipula\'e7\'e3o de juros ou lucros usur\'e1rios ser\'e1 nula}{\i\f2\fs26\insrsid14514403 , }{
+\b\i\f2\fs26\insrsid14514403 devendo o juiz}{\i\f2\fs26\insrsid14514403  }{\b\i\f2\fs26\insrsid14514403 ajust\'e1-los}{\i\f2\fs26\insrsid14514403  \'e0 medida legal, ou, caso j\'e1 tenha sido cumprida, ordenar a restitui\'e7\'e3
+o da quantia paga em excesso, com os juros legais a contar da data do pagamento devido.}{\f2\fs26\insrsid14514403      (original sem grifo)
+\par }\pard \s16\qj \li1440\ri0\sl360\slmult1\widctlpar\faauto\adjustright\rin0\lin1440\itap0 {\i\f2\fs26\insrsid14514403 
+\par }{\f2\fs26\insrsid14514403 E, o art. 13 do Decreto n.\'ba22.626/33, que:
+\par 
+\par }\pard \s16\qj \li2880\ri0\sl360\slmult1\widctlpar\faauto\adjustright\rin0\lin2880\itap0 {\i\f2\fs26\insrsid14514403 \'c9 considerado delito de usura toda a simula\'e7\'e3o ou pr\'e1
+tica tendente a ocultar a verdadeira taxa de juros ou fraudar os dispositivos desta lei, para o fim de sujeitar o devedor a maiores presta\'e7\'f5es ou encargos, al\'e9m dos estabelecidos no respectivo t\'edtulo ou instrumento.
+\par }\pard\plain \qj \li0\ri0\sl360\slmult1\widctlpar\faauto\adjustright\rin0\lin0\itap0 \fs24\lang1046\langfe1046\cgrid\langnp1046\langfenp1046 {\f2\fs26\insrsid14514403 
+\par \tab \tab Assim, n\'e3o se poder permitir que o consumidor dos servi\'e7os fornecidos pelas administradoras de cart\'f5es de cr\'e9dito sejam penalizados com a cobran\'e7a de juros}{\b\f2\fs26\insrsid14514403  infinitamente }{\f2\fs26\insrsid14514403 
+maiores que a desvaloriza\'e7\'e3o da moeda.
+\par }\pard\plain \s16\qj \li0\ri0\sl360\slmult1\widctlpar\faauto\adjustright\rin0\lin0\itap0 \fs24\lang1046\langfe1046\cgrid\langnp1046\langfenp1046 {\f2\fs26\insrsid14514403 
+\par  \tab \tab N\'e3o obstante, disp\'f5e }{\b\f2\fs26\insrsid14514403 o art. 406 do C\'f3digo Civil Brasileiro}{\f2\fs26\insrsid14514403 , que quando os juros morat\'f3rios }{\b\f2\fs26\insrsid14514403 n\'e3o forem convencionados}{\f2\fs26\insrsid14514403 
+, ou o forem sem taxa estipulada, ou quando provierem de determina\'e7\'e3o da lei, }{\b\f2\fs26\insrsid14514403 ser\'e3o fixados segundo a taxa em vigor para a mora do pagamento de impostos devidos a Fazenda Nacional}{\f2\fs26\insrsid14514403  (ori
+ginal sem grifo).
+\par 
+\par \tab \tab N\'e3o h\'e1 qualquer diverg\'eancia, seja na doutrina ou jurisprud\'eancia, de que os contratos de cart\'f5es de cr\'e9dito sejam t\'edpicos }{\b\f2\fs26\insrsid14514403 contratos de ades\'e3o}{\f2\fs26\insrsid14514403  (art. 54 do CDC \endash 
+ cl\'e1usulas redigidas pr\'e9via e unilateralmente por uma das partes), motivo pelo qual, n\'e3o s\'e3o contratos }{\b\f2\fs26\insrsid14514403 pactuados}{\f2\fs26\insrsid14514403 , n\'e3o h\'e1 }{\b\f2\fs26\insrsid14514403 conven\'e7\'e3o}{
+\f2\fs26\insrsid14514403  entre as partes, haja vista que todas as suas cl\'e1usulas s\'e3o }{\b\f2\fs26\insrsid14514403 unilateralmente impostas}{\f2\fs26\insrsid14514403  pela Administradora (emissora do cart\'e3o), com infinita superioridade t\'e9
+cnica e financeira.
+\par 
+\par \tab \tab \'c9 certo que um dos princ\'edpios gerais dos contratos \'e9 a autonomia da vontade, contudo, este princ\'edpio n\'e3o \'e9 absoluto, conforme explica ORLANDO GOMES, }{\i\f2\fs26\insrsid14514403 Contratos}{\f2\fs26\insrsid14514403 , 12\'aa Edi
+\'e7\'e3o, p\'e1g. 27:
+\par 
+\par }\pard \s16\qj \fi3\li2832\ri0\sl360\slmult1\widctlpar\faauto\adjustright\rin0\lin2832\itap0 {\f2\fs26\insrsid14514403 \'93A }{\b\f2\fs26\insrsid14514403 liberdade de contratar propriamente dita, jamais foi ilimitada}{\f2\fs26\insrsid14514403 
+. Duas limita\'e7\'f5es de car\'e1ter geral sempre confinaram-na: a }{\b\f2\fs26\insrsid14514403 ordem p\'fablica}{\f2\fs26\insrsid14514403  e os bons costumes\'94. 
+\par (...)
+\par \'93A lei da ordem p\'fablica seria aquela que entende como interesses essenciais do Estado ou da coletividade, ou que fixa no direito privado, as bases jur\'eddicas fundamentais sobre as quais repousa a ordem econ\'f4
+mica ou moral de determinada sociedade.\'94  (original sem grifo)
+\par 
+\par }\pard \s16\qj \li0\ri0\sl360\slmult1\widctlpar\faauto\adjustright\rin0\lin0\itap0 {\f2\fs26\insrsid14514403 \tab \tab Segundo CL\'c1UDIA LIMA MARQUES, }{\i\f2\fs26\insrsid14514403 Coment\'e1rios as C\'f3digo de Defesa do Consumidor, }{
+\f2\fs26\insrsid14514403 1992, p\'e1g. 31, ainda referindo-se aos contratos de ades\'e3o:
+\par 
+\par }\pard \s16\qj \fi3\li2832\ri0\sl360\slmult1\widctlpar\faauto\adjustright\rin0\lin2832\itap0 {\f2\fs26\insrsid14514403 \'93...limita-se o consumidor a aceitar em bloco (muitas vezes sem sequer ler completamente) as cl\'e1usulas, que foram }{
+\b\f2\fs26\insrsid14514403 unilateral e uniformemente pr\'e9-elaboradas pela empresa}{\f2\fs26\insrsid14514403 , assumindo, assim, um papel de simples aderente \'e0 vontade manifestada pela empresa no }{\b\f2\fs26\insrsid14514403 
+instrumento contratual massificado}{\f2\fs26\insrsid14514403 .\'94 (original sem grifo)
+\par }\pard \s16\qj \li0\ri0\sl360\slmult1\widctlpar\faauto\adjustright\rin0\lin0\itap0 {\f2\fs26\insrsid14514403 
+\par \tab \tab Assim, \'e9 ineg\'e1vel a necessidade de relativizar o princ\'edpio da autonomia da vontade ou }{\i\f2\fs26\insrsid14514403 pacta sunt servanda }{\f2\fs26\insrsid14514403 em contratos dessa natureza.
+\par 
+\par \tab \tab Por conseguinte, caso V. Exa. Entenda n\'e3o ser aplic\'e1vel a regra contida no antigo \'a7 3\'ba, do art. 192, da CRFB, em decorr\'eancia da EC n.\'ba 40/2003 (apesar de vigente \'e0 \'e9poca da propositura da a\'e7\'e3o) deve-se, no m\'ed
+nimo, ser aplicada regra prevista pelo }{\b\f2\fs26\insrsid14514403 art. 406}{\f2\fs26\insrsid14514403 , fazendo incluir a taxa }{\b\f2\fs26\insrsid14514403 SELIC}{\f2\fs26\insrsid14514403  ao contrato em refer\'eancia, por ser essa taxa referencial de
+ juros a Fazenda P\'fablica, tal como entendimento da nobre jurista Maria Helena Diniz, em seu C\'f3digo Civil Anotado, p\'e1gs. 295/296 e 390, comentando os artigos 406 e 591, respectivamente.
+\par 
+\par \tab \tab Certo n\'e3o ser pac\'edfico o entendimento de ser a taxa }{\b\f2\fs26\insrsid14514403 SELIC}{\f2\fs26\insrsid14514403  o par\'e2metro para o c\'e1lculo dos juros legais, por\'e9m, o entendimento divergente, coloca em melhor situa\'e7\'e3
+o os consumidores dos servi\'e7os banc\'e1rios, uma vez que considera aplic\'e1vel, no caso do referido }{\b\f2\fs26\insrsid14514403 art. 406}{\f2\fs26\insrsid14514403 , o que disp\'f5e o }{\b\f2\fs26\insrsid14514403 art. 161, \'a7 1\'ba do C\'f3
+digo Tribut\'e1rio Nacional}{\f2\fs26\insrsid14514403 , ou seja, se a lei n\'e3o dispuser de modo diverso, os juros de mora s\'e3o calculados \'e0 taxa de 1% (hum por cento) ao m\'eas.
+\par 
+\par \tab \tab Nesse sentido, }{\b\f2\fs26\insrsid14514403 Jornada STJ 20}{\f2\fs26\insrsid14514403 , cujo trecho passamos a transcrever:
+\par 
+\par }\pard \s16\qj \fi3\li2832\ri0\sl360\slmult1\widctlpar\faauto\adjustright\rin0\lin2832\itap0 {\f2\fs26\insrsid14514403 \'93A taxa de juros morat\'f3rios a que se refere o art. 406 \'e9 a do art. 161, \'a7 1\'ba, do C\'f3digo Tribut\'e1
+rio Nacional, ou seja, 1% (hum por cento) ao m\'eas. (...)\'94
+\par (Nelson Nery Junior e Rosa Maria de Andrade Nery, C\'f3digo de Processo Civil Anotado, 2\'aa Edi\'e7\'e3o, p\'e1g. 327, Ed. RT)
+\par }\pard \s16\qj \li0\ri0\sl360\slmult1\widctlpar\faauto\adjustright\rin0\lin0\itap0 {\f2\fs26\insrsid14514403 
+\par \tab \tab Assim, a taxa m\'e1xima a ser aplicada aos contratos da natureza dos que constituem objeto da presente demanda, seria correspondente \'e0 }{\b\f2\fs26\insrsid14514403 SELIC }{\f2\fs26\insrsid14514403 
+ou, caso V. Exa. assim entenda, a que corresponda \'e0 regra prevista pelo art. 161, do CTN.
+\par }\pard \s16\qj \fi1440\li0\ri0\sl360\slmult1\widctlpar\faauto\adjustright\rin0\lin0\itap0 {\f2\fs26\insrsid14514403 
+\par }\pard\plain \s4\qj \li1440\ri0\sl360\slmult1\keepn\widctlpar\faauto\outlinelevel3\adjustright\rin0\lin1440\itap0 \f1\fs24\ul\lang1046\langfe1046\cgrid\langnp1046\langfenp1046 {\b\f2\fs26\ulnone\insrsid14514403 {\field{\*\fldinst SYMBOL 216 \\f 
+"Wingdings" \\s 13}{\fldrslt\f10\fs26}}}{\b\f2\fs26\ulnone\insrsid14514403 Da Cl\'e1usula-mandato
+\par }\pard\plain \qj \li0\ri0\sl360\slmult1\widctlpar\faauto\adjustright\rin0\lin0\itap0 \fs24\lang1046\langfe1046\cgrid\langnp1046\langfenp1046 {\f2\fs26\insrsid14514403 
+\par }\pard\plain \s16\qj \fi1440\li0\ri0\sl360\slmult1\widctlpar\faauto\adjustright\rin0\lin0\itap0 \fs24\lang1046\langfe1046\cgrid\langnp1046\langfenp1046 {\f2\fs26\insrsid14514403 Tamb\'e9m n\'e3o \'e9 poss\'edvel, como quer a r\'e9
+, vincular os encargos que assume junto a Institui\'e7\'f5es Financeiras (para arcar com o pagamento dos valores que financia) ao contrato de presta\'e7\'e3o de servi\'e7os que celebra com seus consumidores, por meio da chamada cl\'e1usula-mandato; }{
+\b\f2\fs26\insrsid14514403 a uma}{\f2\fs26\insrsid14514403 , porque \'e0s institui\'e7\'f5es financeiras, em regra, n\'e3o se aplica a veda\'e7\'e3o constante no art. 4\'b0, do Decreto n.\'b022.626/33, }{\b\f2\fs26\insrsid14514403 ao contr\'e1
+rio das administradoras de cart\'f5es de cr\'e9dito}{\f2\fs26\insrsid14514403  (neste caso, incluem-se as institui\'e7\'f5es financeiras que administram tais cart\'f5es), motivo pelo qual, a estas, }{\b\f2\fs26\insrsid14514403 vedada \'e9 a pr\'e1
+tica do anatocismo e da cobran\'e7a de encargos financeiros al\'e9m dos limites legais}{\f2\fs26\insrsid14514403 ; }{\b\f2\fs26\insrsid14514403 a duas}{\f2\fs26\insrsid14514403 , porque o consumidor n\'e3
+o tem a menor responsabilidade sobre qualquer compromisso assumido pelo fornecedor de servi\'e7os junto a terceiros, por se tratarem de rela\'e7\'f5es diversas e, sobre as quais, }{\b\f2\fs26\insrsid14514403 n\'e3o tem o menor controle}{
+\f2\fs26\insrsid14514403 ; }{\b\f2\fs26\insrsid14514403 a tr\'eas}{\f2\fs26\insrsid14514403 , porque as administradoras de cart\'f5es de cr\'e9dito, ao prestarem tais servi\'e7os, devem considerar os riscos inerentes \'e0 pr\'f3
+pria atividade que desenvolvem, os quais se constituem em }{\b\f2\fs26\insrsid14514403 \'e1lea ordin\'e1ria da atividade econ\'f4mica}{\f2\fs26\insrsid14514403 , e n\'e3o responsabilizar o consumidor, penalizando-o ilicitamente. 
+\par }\pard \s16\qj \li0\ri0\sl360\slmult1\widctlpar\faauto\adjustright\rin0\lin0\itap0 {\f2\fs26\insrsid14514403 
+\par }\pard \s16\qj \fi1440\li0\ri0\sl360\slmult1\widctlpar\faauto\adjustright\rin0\lin0\itap0 {\f2\fs26\insrsid14514403 Assim, quanto \'e0 denominada }{\b\f2\fs26\insrsid14514403 cl\'e1usula-mandato, }{\f2\fs26\insrsid14514403 sem preju\'edzo da citada decis
+\'e3o proferida pela C\'f4rte Superior de Justi\'e7a, tamb\'e9m aplic\'e1vel \'e0 referida cl\'e1usula, citamos NELSON NERY J\'daNIOR que ao comentar o C\'f3digo de Defesa do Consumidor, registra que:
+\par 
+\par }\pard \s16\qj \li2880\ri0\sl360\slmult1\widctlpar\faauto\adjustright\rin0\lin2880\itap0 {\i\f2\fs26\insrsid14514403 \'93A lei brasileira \'e9 clara ao }{\b\i\f2\fs26\insrsid14514403 proibir expressamente a imposi\'e7\'e3o de representante para conclu
+ir ou realizar outro neg\'f3cio jur\'eddico pelo consumidor}{\i\f2\fs26\insrsid14514403 .  
+\par N\'e3o h\'e1 lugar para discuss\'f5es sobre a possibilidade ou n\'e3o, do ponto de vista econ\'f4mico e jur\'eddico, de emprestar-se validade a cl\'e1usula que imponha representante ao consumidor.\'94  }{\f2\fs26\insrsid14514403  (original sem grifo)
+
+\par }\pard \s16\qj \li0\ri0\sl360\slmult1\widctlpar\faauto\adjustright\rin0\lin0\itap0 {\f2\fs26\insrsid14514403 
+\par \tab \tab   Contudo, ainda, que se considere que a mencionada capta\'e7\'e3o \'e9 realmente necess\'e1ria, e poss\'edvel, a administradora do cart\'e3o dever\'e1 }{\b\f2\fs26\insrsid14514403 comprovar n\'e3o somente que a utilizou para custe\'e1
+-lo, mas, tamb\'e9m, a que taxa de juros}{\f2\fs26\insrsid14514403 , caso contr\'e1rio, }{\b\f2\fs26\insrsid14514403 seria prestigiar a \'93invers\'e3o do \'f4nus da prova ao inverso\'94}{\f2\fs26\insrsid14514403 , ou seja, em benef\'ed
+cio da parte que, no contrato, est\'e1 em posi\'e7\'e3o de absoluta superioridade econ\'f4mica, em detrimento do consumidor que, neste tipo de \'93ajuste\'94 \'e9, sem d\'favida alguma, a parte desfavorecida e hipossuficiente.
+\par 
+\par \tab \tab Neste sentido se posicionou o }{\b\f2\fs26\insrsid14514403 Egr\'e9gio Superior Tribunal de Justi\'e7a}{\f2\fs26\insrsid14514403  em recente publica\'e7\'e3o, ao julgar o Recurso Especial n.\'ba522.491-RS, Rel. origin\'e1rio Ministro C\'e9
+sar Asfor Rocha, Rel. para ac\'f3rd\'e3o Min. Aldir Passarinho J\'fanior}{\b\f2\fs26\insrsid14514403 , julgado em 08/10/2003}{\f2\fs26\insrsid14514403 :
+\par 
+\par }\pard \s16\qj \li2880\ri0\sl360\slmult1\widctlpar\faauto\adjustright\rin0\lin2880\itap0 {\b\i\f2\fs26\insrsid14514403 CART\'c3O \endash  CR\'c9DITO \endash  CL\'c1SULA MANDATO \endash  REPASSE \endash  ENCARGOS \endash  ORIGEM
+\par }\pard \s16\qj \li2880\ri0\sl360\slmult1\widctlpar\tx1620\faauto\adjustright\rin0\lin2880\itap0 {\i\f2\fs26\insrsid14514403 Tratou-se de contrato de cart\'e3o de cr\'e9dito com cl\'e1usula-mandato, habilitando a administradora a agir como mandat\'e1
+ria para captar empr\'e9stimo banc\'e1rio junto a uma institui\'e7\'e3o financeira, caso o titular do cart\'e3o n\'e3o pague o total da fatura at\'e9 a data do vencimento.  Ao julgar essa hip\'f3tese, prosseguindo o julgamento, a Se\'e7\'e3
+o entendeu, por maioria, que }{\b\i\f2\fs26\insrsid14514403 a administradora est\'e1 sujeita a prestar contas n\'e3o s\'f3 dos encargos e condi\'e7\'f5es que foram repassados ao titular do cart\'e3o, mas tamb\'e9m dos encargos e condi\'e7\'f5
+es que foram captados junto \'e0 institui\'e7\'e3o financeira na origem}{\i\f2\fs26\insrsid14514403 .  Precedentes citados:
+\par }\pard \s16\qj \li2880\ri0\sl360\slmult1\widctlpar\faauto\adjustright\rin0\lin2880\itap0 {\i\f2\fs26\insrsid14514403 REsp. 387.581-RS, DJ 1\'ba/7/2002; REsp. 473.627-RS, DJ 23/6/2003, e Resp. 397.796-RS, DJ 10/3/2003. 
+\par }\pard \s16\qj \li0\ri0\sl360\slmult1\widctlpar\faauto\adjustright\rin0\lin0\itap0 {\f2\fs26\insrsid14514403 
+\par  \tab \tab Ressalte-se que, pelo volume de recursos financeiros movimentado pela administradoras de cart\'f5es de cr\'e9dito, parece muito claro que as mesmas n\'e3o precisam  captar recursos no mercado de capitais, uma vez que possuem plena condi\'e7\'e3
+o de garantir o financiamento dos cart\'f5es por elas administrados, por seus pr\'f3prios recursos.
+\par 
+\par }\pard \s16\qj \fi1440\li0\ri0\sl360\slmult1\widctlpar\faauto\adjustright\rin0\lin0\itap0 {\b\f2\fs26\insrsid14514403 A repeti\'e7\'e3o de ind\'e9bito}{\f2\fs26\insrsid14514403  e, em dobro, \'e9 um direito que decorre da pr\'f3pria Lei n.\'b0
+8.078/90, quando o consumidor pagar quantia al\'e9m do valor devido, motivo pelo qual, n\'e3o h\'e1 que se cogitar de sua inaplicabilidade.
+\par }\pard \s16\qj \li0\ri0\sl360\slmult1\widctlpar\faauto\adjustright\rin0\lin0\itap0 {\f2\fs26\insrsid14514403 
+\par }\pard \s16\qj \fi1440\li0\ri0\sl360\slmult1\widctlpar\faauto\adjustright\rin0\lin0\itap0 {\b\f2\fs26\insrsid14514403 No que pertine ao pedido de antecipa\'e7\'e3o de tutela}{\f2\fs26\insrsid14514403 , presentes est\'e3
+o os requisitos descritos pelo art. 273, do CPC, haja vista que }{\b\f2\fs26\insrsid14514403 todo}{\f2\fs26\insrsid14514403  o pleito do autor, tem como fundamento normas claras e expressas, al\'e9m de comprova\'e7\'e3o, conforme se
+ depreende dos documentos acostados aos autos, caracterizando, pois, a }{\f2\fs26\ul\insrsid14514403 verossimilhan\'e7a}{\f2\fs26\insrsid14514403  de suas alega\'e7\'f5es bem como, n\'e3o pode o autor ser penalizado com a inclus\'e3
+o de seu nome no cadastro de devedores, porque s\'f3 n\'e3o quitou sua d\'edvida, por }{\b\f2\fs26\insrsid14514403 exclusiva }{\f2\fs26\insrsid14514403 responsabilidade do r\'e9u, que o est\'e1 impondo condi\'e7\'f5es irreais e abusivas, da\'ed a exist
+\'eancia de }{\f2\fs26\ul\insrsid14514403 dano irrepar\'e1vel ou de dif\'edcil repara\'e7\'e3o}{\f2\fs26\insrsid14514403 .
+\par }\pard \s16\qj \li0\ri0\sl360\slmult1\widctlpar\faauto\adjustright\rin0\lin0\itap0 {\f2\fs26\insrsid14514403 
+\par }\pard \s16\qj \fi1440\li0\ri0\sl360\slmult1\widctlpar\faauto\adjustright\rin0\lin0\itap0 {\b\f2\fs26\insrsid14514403 Tamb\'e9m n\'e3o merece prosperar a \'93impugna\'e7\'e3o\'94 ao pedido de invers\'e3o do \'f4nus da prova}{\f2\fs26\insrsid14514403 
+, haja vista que o C\'f3digo de Defesa do Consumidor rege, especificamente, as rela\'e7\'f5es de consumo, por isso, trata-se de norma especial, derrogando, por conseguinte, a norma geral quanto ao \'f4
+nus da prova, prevista pelo CPC, quando se tratar de rela\'e7\'e3o contratual, onde uma das partes seja hipossuficiente em rela\'e7\'e3o \'e0 outra, como no caso.
+\par 
+\par }\pard \s16\qj \li0\ri0\sl360\slmult1\widctlpar\faauto\adjustright\rin0\lin0\itap0 {\f2\fs26\insrsid14514403  \tab \tab Desta forma e, tendo em vista que os fatos e fundamentos alegados em contesta\'e7\'e3o, n\'e3o servem para elidir a pretens\'e3
+o inicial, ratifica o autor todos os seus termos, requerendo seja julgado procedente o pedido, insistindo na invers\'e3o do \'f4nus da prova, na requerida antecipa\'e7\'e3o de tutela, al\'e9m da }{\b\f2\fs26\insrsid14514403 manifesta\'e7\'e3o do MM. Ju
+\'edzo quanto ao pedido de susta\'e7\'e3o dos descontos (conforme fls. 17, item a) que n\'e3o fora apreciado pelo Magistrado}{\f2\fs26\insrsid14514403 .
+\par }\pard \s16\qc \li0\ri0\sl360\slmult1\widctlpar\faauto\adjustright\rin0\lin0\itap0 {\f2\fs26\insrsid14514403 
+\par P. Deferimento.
+\par 
+\par Rio de Janeiro, 09 de mar\'e7o de 2004.
+\par }{\b\f2\fs26\insrsid14514403 
+\par 
+\par }}
